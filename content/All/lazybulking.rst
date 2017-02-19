@@ -1,7 +1,7 @@
-Chrome OS, a Quick Review
-==========================
+Lazy Bulking
+============
 :date: 2014-12-20
-:tags: Chrome OS, review, git
+:tags: articles
 
 It’s the holidays, and that means you might be considering a new laptop.
 You’ve probably heard about Chrome OS. Basically it’s Google’s web focused

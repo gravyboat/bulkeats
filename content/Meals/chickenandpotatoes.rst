@@ -1,7 +1,7 @@
-Baked garbanzo beans
+Chicken and Potatoes
 ====================
 :date: 2017-02-05
-:tags: snack, vegetarian
+:tags: meals
 
 It’s the holidays, and that means you might be considering a new laptop.
 You’ve probably heard about Chrome OS. Basically it’s Google’s web focused

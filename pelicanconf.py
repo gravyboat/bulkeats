@@ -38,7 +38,7 @@ THEME = "themes/pure-single"
 PYGMENTS_STYLE = 'solarizeddark'
 
 # Custom css
-STATIC_PATHS = [, 'images']
+STATIC_PATHS = ['images']
 
 # Other
 PLUGINS = ['minification']

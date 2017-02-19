@@ -6,7 +6,8 @@ Chicken Fajitas
 As usual all weight/calories/protein for things like meat are taken in an
 uncooked state and will be noted as such since there's too many variables. All
 nutrition values are taken from a Google search such as
-`yellow onion nutrition`.
+`yellow onion nutrition`. This means that nutritional counts may be slightly
+inaccurate, these are all approximations.
 
 Chicken fajitas are an easy meal you can add calories on to with minimal work.
 These fajitas are cooked in a single pan. This means they will lack the famous
@@ -24,6 +25,12 @@ Preparation and cooking time: 2 hours
 Nutrition facts per meal: 1412 calories, 96g protein, 182g carbs, 35g fat
 -------------------------------------------------------------------------
 
+Required Equipment
+------------------
+Rice cooker (or not if you want to baby sit it)
+large pan
+zip-top bags
+
 Main Ingredients
 ----------------
 
@@ -35,9 +42,9 @@ Main Ingredients
 - limes (2 per 1.5 lbs of meat) (negligible nutrition facts)
 - spices (cumin, garlic granules, onion granules, smoked paprika, chile powder,
   cayenne pepper, salt, pepper)
-- olive oil (1 tablespoons, approx 14g), (negligible nutrition facts, most will
+- olive oil (1 tablespoon, approx 14g), (negligible nutrition facts, most will
   be lost)
-- coconut oil, or preferred cooking oil (1 tablespoon
+- coconut oil, or preferred cooking oil (1 tablespoon)
 
 ----------------------------------------------------------------
 Total overall: 1320 calories, 212g protein, 16g carbs, 48g fat
@@ -53,7 +60,7 @@ Variable Sides
 - Tortillas (9) (nutrition dependent on brand, as an example: 1620 calories,
   45g protein, 261g carbs, 45g fat) I usually eat 3 burrito sized flour tortillas
   per meal turning my fajita ingredients into burritos with greek yogurt or
-  sour cream and hot sauce)
+  sour cream and hot sauce
 
 --------------------------------------------------------------
 Total overall: 2916 calories, 75g protein, 531g carbs, 56g fat

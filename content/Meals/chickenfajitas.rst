@@ -19,7 +19,9 @@ can be adjusted per your intake needs.
 Required Equipment
 ------------------
 Rice cooker (or not if you want to baby sit it)
+
 large pan
+
 zip-top bags
 
 Main Ingredients
@@ -54,10 +56,6 @@ Variable Sides
 
 **Nutrition per meal: 972 calories, 25g protein, 177g carbs, 19g fat**
 
-**Overall stats: 4236 calories, 287g protein, 547g carbs, 104g fat**
-
-**Overall stats per meal: 1412 calories, 96g protein, 182g carbs, 35g fat**
-
 Preparation Instructions
 ------------------------
 
@@ -91,6 +89,7 @@ Tools used
 ----------
 
 Rice cooker (Amazon affiliate link)
+
 Dutch oven (Amazon affiliate link)
 
 As usual all weight/calories/protein for things like meat are taken in an

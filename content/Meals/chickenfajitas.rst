@@ -3,11 +3,6 @@ Chicken Fajitas
 :date: 2017-02-14
 :tags: meals, leftovers
 
-As usual all weight/calories/protein for things like meat are taken in an
-uncooked state and will be noted as such since there's too many variables. All
-nutrition values are taken from a Google search such as
-`yellow onion nutrition`. This means that nutritional counts may be slightly
-inaccurate, these are all approximations.
 
 Chicken fajitas are an easy meal you can add calories on to with minimal work.
 These fajitas are cooked in a single pan. This means they will lack the famous
@@ -15,15 +10,11 @@ grill marks. In addition I mix these with brown rice once they finish cooking
 and pack them into tortillas for more calories. The `Variable sides` section
 can be adjusted per your intake needs.
 
---------------------
-Expected servings: 3
---------------------
--------------------------------------
-Preparation and cooking time: 2 hours
--------------------------------------
--------------------------------------------------------------------------
-Nutrition facts per meal: 1412 calories, 96g protein, 182g carbs, 35g fat
--------------------------------------------------------------------------
+**Expected servings: 3**
+
+**Preparation and cooking time: 2 hours**
+
+**Nutrition facts per meal: 1412 calories, 96g protein, 182g carbs, 35g fat**
 
 Required Equipment
 ------------------
@@ -46,12 +37,9 @@ Main Ingredients
   be lost)
 - coconut oil, or preferred cooking oil (1 tablespoon)
 
-----------------------------------------------------------------
-Total overall: 1320 calories, 212g protein, 16g carbs, 48g fat
-----------------------------------------------------------------
-------------------------------------------------------------
-Total per meal: 440 calories, 70g protein, 5g carbs, 16g fat
-------------------------------------------------------------
+**Nutrition total: 1320 calories, 212g protein, 16g carbs, 48g fat**
+
+**Nutrition per meal: 440 calories, 70g protein, 5g carbs, 16g fat**
 
 Variable Sides
 --------------
@@ -62,19 +50,13 @@ Variable Sides
   per meal turning my fajita ingredients into burritos with greek yogurt or
   sour cream and hot sauce
 
---------------------------------------------------------------
-Total overall: 2916 calories, 75g protein, 531g carbs, 56g fat
---------------------------------------------------------------
---------------------------------------------------------------
-Total per meal: 972 calories, 25g protein, 177g carbs, 19g fat
---------------------------------------------------------------
+**Nutrition total: 2916 calories, 75g protein, 531g carbs, 56g fat**
 
-----------------------------------------------------------------
-Overall stats: 4236 calories, 287g protein, 547g carbs, 104g fat 
-----------------------------------------------------------------
------------------------------------------------------------------------
-Overall stats per meal: 1412 calories, 96g protein, 182g carbs, 35g fat 
------------------------------------------------------------------------
+**Nutrition per meal: 972 calories, 25g protein, 177g carbs, 19g fat**
+
+**Overall stats: 4236 calories, 287g protein, 547g carbs, 104g fat**
+
+**Overall stats per meal: 1412 calories, 96g protein, 182g carbs, 35g fat**
 
 Preparation Instructions
 ------------------------
@@ -110,3 +92,9 @@ Tools used
 
 Rice cooker (Amazon affiliate link)
 Dutch oven (Amazon affiliate link)
+
+As usual all weight/calories/protein for things like meat are taken in an
+uncooked state and will be noted as such since there's too many variables. All
+nutrition values are taken from a Google search such as
+`yellow onion nutrition`. This means that nutritional counts may be slightly
+inaccurate, these are all approximations.

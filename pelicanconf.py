@@ -39,7 +39,11 @@ PYGMENTS_STYLE = 'solarizeddark'
 
 # Custom css
 CUSTOM_CSS = 'static/custom.css'
-STATIC_PATHS = ['extra/custom.css']
+STATIC_PATHS = ['images', 'extra/custom.css']
+
+EXTRA_PATH_METADATA = {
+        'extra/custom.css': {'path': 'static/custom.css'}
+        }
 
 # Other
 PLUGINS = ['minification']

@@ -38,7 +38,8 @@ THEME = "themes/pelican-themes/pelican-bootstrap3"
 PYGMENTS_STYLE = 'solarizeddark'
 
 # Custom css
-STATIC_PATHS = ['images']
+CUSTOM_CSS = 'static/custom.css'
+STATIC_PATHS = ['extra/custom.css']
 
 # Other
 PLUGINS = ['minification']

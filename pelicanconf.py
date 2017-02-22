@@ -16,15 +16,15 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-#LINKS = (('Example', 'example'),
-#        )
+LINKS = (('Example', 'example'),
+        )
 
 # Social widget
-#SOCIAL = (('twitter', 'https://twitter.com/bulkeats'),
-#          )
+SOCIAL = (('twitter', 'https://twitter.com/bulkeats'),
+          )
 
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 9
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
@@ -51,3 +51,4 @@ EXTRA_PATH_METADATA = {
 PLUGINS = ['minification']
 READERS = {'html': None}
 IGNORE_FILES = ['README.rst', 'LISEZ-MOI.rst']
+HIDE_SIDEBAR = True

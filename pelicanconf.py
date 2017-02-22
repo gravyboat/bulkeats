@@ -32,7 +32,7 @@ DEFAULT_PAGINATION = 10
 PAGE_PATHS = ['content/pages']
 
 # Theme
-THEME = "themes/twenty-pelican-html5up"
+THEME = "themes/pelican-themes/pelican-bootstrap3"
 
 # Code block theme
 PYGMENTS_STYLE = 'solarizeddark'

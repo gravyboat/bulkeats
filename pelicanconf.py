@@ -16,12 +16,12 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = (('Example', 'example'),
-        )
+#LINKS = (('Example', 'example'),
+#        )
 
 # Social widget
-SOCIAL = (('twitter', 'https://twitter.com/bulkeats'),
-          )
+#SOCIAL = (('twitter', 'https://twitter.com/bulkeats'),
+#          )
 
 
 DEFAULT_PAGINATION = 10

@@ -51,7 +51,7 @@ READERS = {'html': None}
 IGNORE_FILES = ['README.rst', 'LISEZ-MOI.rst']
 
 # Filters
-@sidebar_filter
+@sidebar
 def sidebar(value):
   if value.startswith('archives') or value.startswith('category'):
     return 'right-sidebar'
@@ -60,4 +60,4 @@ def sidebar(value):
   else:
     return 'no-sidebar'
 
-JINJA_FILTERS = {'sidebar': sidebar_filter}
+JINJA_FILTERS = {'sidebar': sidebar}

@@ -34,6 +34,7 @@ PAGE_PATHS = ['content/pages']
 # Theme
 THEME = "themes/pelican-themes/pelican-bootstrap3"
 BOOTSTRAP_THEME = "flatly"
+BOOTSTRAP_FLUID = True
 
 # Code block theme
 PYGMENTS_STYLE = 'solarizeddark'

@@ -49,15 +49,3 @@ EXTRA_PATH_METADATA = {
 PLUGINS = ['minification']
 READERS = {'html': None}
 IGNORE_FILES = ['README.rst', 'LISEZ-MOI.rst']
-
-# Filters
-@sidebar
-def sidebar(value):
-  if value.startswith('archives') or value.startswith('category'):
-    return 'right-sidebar'
-  elif value == 'index':
-    return 'index'
-  else:
-    return 'no-sidebar'
-
-JINJA_FILTERS = {'sidebar': sidebar}

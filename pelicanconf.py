@@ -32,7 +32,7 @@ DEFAULT_PAGINATION = 9
 PAGE_PATHS = ['content/pages']
 
 # Theme
-THEME = "themes/pelican-themes/pelican-bootstrap3"
+THEME = "themes/pelican-themes/pelican-bootstrap3-grid"
 BOOTSTRAP_THEME = "flatly"
 #DISPLAY_ARTICLE_INFO_ON_INDEX = True
 

@@ -32,9 +32,17 @@ Main Ingredients
 - red pepper (1 per 1.5 lbs of meat) (negligible nutrition facts)
 - yellow onion (1 per 1.5 lbs of meat, approx 200g), (260 calories, 2g protein,
   16g carbs, 22g fat)
-- limes (2 per 1.5 lbs of meat) (negligible nutrition facts)
-- spices (cumin, garlic granules, onion granules, smoked paprika, chile powder,
-  cayenne pepper, salt, pepper)
+- limes (1 large lime per 1.5 lbs of meat) (negligible nutrition facts)
+- spices
+  - cumin (1 teaspoon)
+  - garlic granules (1 teaspoon)
+  - onion granules (1 teaspoon)
+  - smoked paprika (1/4 teaspoon)
+  - chile powder (1/2 teaspoon)
+  - cayenne pepper (1/4 teaspoon)
+  - salt (1/2 teaspoon)
+  - pepper (1/2 teaspoon)
+- soy sauce (1 teaspoon)
 - olive oil (1 tablespoon, approx 14g), (negligible nutrition facts, most will
   be lost)
 - coconut oil, or preferred cooking oil (1 tablespoon)

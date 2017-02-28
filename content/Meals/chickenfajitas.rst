@@ -10,9 +10,9 @@ grill marks. In addition I mix these with brown rice once they finish cooking
 and pack them into tortillas for more calories. The `Variable sides` section
 can be adjusted per your intake needs.
 
-**Expected servings: 3**
+**Expected servings: 2 without sides, 4 with sides**
 
-**Preparation and cooking time: 2 hours**
+**Prep time: 20 minutes | Cook time: 2 hours | Total: 2 hours**
 
 **Nutrition facts per meal: 1412 calories, 96g protein, 182g carbs, 35g fat**
 

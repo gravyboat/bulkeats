@@ -71,25 +71,25 @@ Preparation Instructions
   because it's easier for me to manage. Cook your rice however you prefer,
   I am assuming a 2 hour cook time.
 - Combine the spices listed above in a zip top bag along with the juice from
-  the limes and olive oil. Close and shake vigoriously to combine.
+  the lime(s) and olive oil. Close and shake vigoriously to combine.
 - Prep chicken and cut into thin slices (however big you prefer to eat in a bite)
   and put these in the bag with the marinade. Close the marinade bag and shake
   again to ensure all pieces are coated, place the bag into a bowl and put this
-  in the refridgerator for 45 minutes, once this time has elapsed flip the bag.
-- When your brown rice is approximatey 30 minutes from being done slice the
-  green pepper, red pepper, and onion, again to your preference.
+  in the refrigerator for 45 minutes, once this time has elapsed flip the bag.
+- When your brown rice is approximatey 45 minutes from being done slice the
+  green pepper, red pepper, and onion, again to your thickness preference.
 - Heat up a large pan or dutch oven over medium/high heat and once it is hot
   place the coconut oil into the pan. Immediately add your onions and peppers,
-  and sprinkle with salt. Stir as needed to ensure all vegetables are cooking
-  evenly.
+  sprinkle with a pinch of salt. Stir as needed to ensure all vegetables are
+  cooking evenly.
 - Once vegetables are most of the way to your desired doneness create a space in
   the middle of the pan.
 - Remove the chicken from the bag, and dump the contents of the bag (chicken
   and marinade) into the pan with the vegetables, you may need to turn up the
   heat at this point, try to ensure as much contact between the pan and chicken
   pieces so they cook.
-- Once the chicken is done cooking turn off the heat, at this point your brown
-  rice should be done cooking.
+- Once the chicken is done cooking and the liquid has been reduced turn off the
+  heat, at this point your brown rice should be done cooking.
 - If the pan is large enough add the rice and stir to combine, serve immediately
   with your preferred toppings.
 

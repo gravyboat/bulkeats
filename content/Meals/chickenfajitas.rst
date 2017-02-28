@@ -34,14 +34,23 @@ Main Ingredients
   16g carbs, 22g fat)
 - limes (1 large lime per 1.5 lbs of meat) (negligible nutrition facts)
 - spices
+
   - cumin (1 teaspoon)
+
   - garlic granules (1 teaspoon)
+
   - onion granules (1 teaspoon)
+
   - smoked paprika (1/4 teaspoon)
+
   - chile powder (1/2 teaspoon)
+
   - cayenne pepper (1/4 teaspoon)
+
   - salt (1/2 teaspoon)
+
   - pepper (1/2 teaspoon)
+
 - soy sauce (1 teaspoon)
 - olive oil (1 tablespoon, approx 14g), (negligible nutrition facts, most will
   be lost)

@@ -4,53 +4,113 @@ Chicken Fajitas
 :tags: meals, leftovers
 :image: chickenfajitas.jpg
 
-It’s the holidays, and that means you might be considering a new laptop.
-You’ve probably heard about Chrome OS. Basically it’s Google’s web focused
-operating system, and it runs on cheap laptops. I owned the original
-chromebook but it was pretty underpowered so I didn’t feel it would be fair to
-review it The one I bought a year ago was $250 US dollars,
-(http://www.amazon.om/gp/product/B00FNPD1OY ) and you can’t actually buy that 
-version any longer. Basically it has 4 gigs of RAM, a 16 gig hard drive and a
-1.4 ghz cpu. So I’ve been using this laptop every day for mostly simple tasks
-such as reading email, browsing the internet, watching videos, and
-occasionally working via SSH. So as a light use machine it’s pretty great.
-It gets the job done, and is generally fast enough for most tasks. I know that
-a lot of people will consider this as a major selling point, and say that for
-250 dollars you can’t really complain, but let’s talk about some things that
-only someone using the machine for a while would notice, and what the major
-drawbacks are.
+Chicken fajitas are an easy meal you can add calories on to with minimal work.
+These fajitas are cooked in a single pan. This means they will lack the famous
+grill marks. In addition I mix these with brown rice once they finish cooking
+and pack them into tortillas for more calories. The `Variable sides` section
+can be adjusted per your intake needs.
 
-Let’s start with the CPU, it’s okay, but it’s not great so sometimes
-things are a bit slow. Having a small hard drive is also tough, 
-16 gigs of space basically means I don’t use the Chromebook for anything 
-serious and even if I wanted to I couldn’t because support is pretty bad for
-the device. It’s made to browse the internet and use internet apps, and that’s
-basically it. Usually this is okay, but sometimes you’re out of luck. A great
-example of this was in early 2014. I had to spend the night in an airport, and
-figured ‘no big deal, I will do some work, I have my chromebook on me.’ but
-this wasn’t the case. The chromebook was unable to connect to the wi-fi
-available in the airport, why this is I don’t know, but I tried to
-troubleshoot it for over an hour without any luck. After that I tried
-tethering off my phone, and it still didn’t work even though my other devices
-could connect to both access points. Without internet the chromebook was
-crippled. Even apps that claimed they could run offline really could only do
-so when you had them open prior to disconnecting. I was screwed. I couldn’t
-work on a presentation, and it was generally useless. This is a major problem.
-Especially since you can’t SSH to the chromebook itself (unless you have it in
-developer mode), so no writing code while the device is offline to commit
-later. This was the first time the chromebook had let me down after owning it
-for 5 months. It was horrifying to realize I was basically out of luck with
-the laptop I had, at that point it was a 250 dollar brick with a screen. I was
-seriously regretting not having put a Linux distro on a thumb drive or SD card.
+**Expected servings: 2 without sides, 4 with sides**
 
-Moving back to using the chromebook itself, I use f.lux, twilight, and several
-other apps that adjust the lighting on my monitor/screens so that I can easily
-sleep at night. Unfortunately the chrome devs don’t care about this
-(https://code.google.com/p/chromium/issues/detail?id=217173 ) and it’s been
-an issue since October 2012! It’s infuriating that this is something they care
-so little about. This lack of functionality means I can’t use my chromebook
-prior to going to bed at all or I will have a hard time falling asleep. This
-is currently my biggest issue with the device since it’s basically just a
-laptop I use at home, but it shows that the development team either isn’t
-serious, or doesn’t care enough to open this functionality up so people can
-write their own app (and believe me they would, Integers of K wrote:
+**Prep time: 20 minutes | Cook time: 2 hours | Total: 2 hours**
+
+**Nutrition facts per meal: 1412 calories, 96g protein, 182g carbs, 35g fat**
+
+Required Equipment
+------------------
+Rice cooker (or not if you want to baby sit it)
+
+large pan
+
+zip-top bags
+
+Main Ingredients
+----------------
+
+- chicken breast (raw) (1.5 lbs, approx 679g), (1120 calories, 210g protein, 0g carbs, 24g fat)
+- green pepper (1 per 1.5 lbs of meat) (negligible nutrition facts)
+- red pepper (1 per 1.5 lbs of meat) (negligible nutrition facts)
+- yellow onion (1 per 1.5 lbs of meat, approx 200g), (260 calories, 2g protein,
+  16g carbs, 22g fat)
+- limes (1 large lime per 1.5 lbs of meat) (negligible nutrition facts)
+- spices
+
+  - cumin (1 teaspoon)
+
+  - garlic granules (1 teaspoon)
+
+  - onion granules (1 teaspoon)
+
+  - smoked paprika (1/4 teaspoon)
+
+  - chile powder (1/2 teaspoon)
+
+  - cayenne pepper (1/4 teaspoon)
+
+  - salt (1/2 teaspoon)
+
+  - pepper (1/2 teaspoon)
+
+- soy sauce (1 teaspoon)
+- olive oil (1 tablespoon, approx 14g), (negligible nutrition facts, most will
+  be lost)
+- coconut oil, or preferred cooking oil (1 tablespoon)
+
+**Nutrition total: 1320 calories, 212g protein, 16g carbs, 48g fat**
+
+**Nutrition per meal: 440 calories, 70g protein, 5g carbs, 16g fat**
+
+Variable Sides
+--------------
+
+- brown rice (cooked) (6 cups, approx 1170g), (1296 calories, 30g protein, 270g carbs, 11g fat)
+- Tortillas (9) (nutrition dependent on brand, as an example: 1620 calories,
+  45g protein, 261g carbs, 45g fat) I usually eat 3 burrito sized flour tortillas
+  per meal turning my fajita ingredients into burritos with greek yogurt or
+  sour cream and hot sauce
+
+**Nutrition total: 2916 calories, 75g protein, 531g carbs, 56g fat**
+
+**Nutrition per meal: 972 calories, 25g protein, 177g carbs, 19g fat**
+
+Preparation Instructions
+------------------------
+
+- Start by getting your brown rice cooking, I use a rice cooker for this
+  because it's easier for me to manage. Cook your rice however you prefer,
+  I am assuming a 2 hour cook time.
+- Combine the spices listed above in a zip top bag along with the juice from
+  the lime(s) and olive oil. Close and shake vigoriously to combine.
+- Prep chicken and cut into thin slices (however big you prefer to eat in a bite)
+  and put these in the bag with the marinade. Close the marinade bag and shake
+  again to ensure all pieces are coated, place the bag into a bowl and put this
+  in the refrigerator for 45 minutes, once this time has elapsed flip the bag.
+- When your brown rice is approximatey 45 minutes from being done slice the
+  green pepper, red pepper, and onion, again to your thickness preference.
+- Heat up a large pan or dutch oven over medium/high heat and once it is hot
+  place the coconut oil into the pan. Immediately add your onions and peppers,
+  sprinkle with a pinch of salt. Stir as needed to ensure all vegetables are
+  cooking evenly.
+- Once vegetables are most of the way to your desired doneness create a space in
+  the middle of the pan.
+- Remove the chicken from the bag, and dump the contents of the bag (chicken
+  and marinade) into the pan with the vegetables, you may need to turn up the
+  heat at this point, try to ensure as much contact between the pan and chicken
+  pieces so they cook.
+- Once the chicken is done cooking and the liquid has been reduced turn off the
+  heat, at this point your brown rice should be done cooking.
+- If the pan is large enough add the rice and stir to combine, serve immediately
+  with your preferred toppings.
+
+Tools used
+----------
+
+Rice cooker (Amazon affiliate link)
+
+Dutch oven (Amazon affiliate link)
+
+As usual all weight/calories/protein for things like meat are taken in an
+uncooked state and will be noted as such since there's too many variables. All
+nutrition values are taken from a Google search such as
+`yellow onion nutrition`. This means that nutritional counts may be slightly
+inaccurate, these are all approximations.

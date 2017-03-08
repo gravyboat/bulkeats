@@ -10,11 +10,11 @@ grill marks. In addition I mix these with brown rice once they finish cooking
 and pack them into tortillas for more calories. The `Variable sides` section
 can be adjusted per your intake needs.
 
-**Expected servings: 2 without sides, 4 with sides**
+**Total servings: 2 without sides, 4 with sides**
 
-**Prep time: 20 minutes | Cook time: 2 hours | Total: 2 hours**
+**Prep time: 20 minutes | Cook time: 2 hours | Total Time: 2 hours**
 
-**Nutrition facts per meal: 1412 calories, 96g protein, 182g carbs, 35g fat**
+**Nutrition facts per meal (with sides): 1412 calories, 96g protein, 182g carbs, 35g fat**
 
 Required Equipment
 ------------------
@@ -36,25 +36,16 @@ Main Ingredients
 - spices
 
   - cumin (1 teaspoon)
-
   - garlic granules (1 teaspoon)
-
   - onion granules (1 teaspoon)
-
   - smoked paprika (1/4 teaspoon)
-
   - chile powder (1/2 teaspoon)
-
   - cayenne pepper (1/4 teaspoon)
-
   - salt (1/2 teaspoon)
-
   - pepper (1/2 teaspoon)
-
 - soy sauce (1 teaspoon)
-- olive oil (1 tablespoon, approx 14g), (negligible nutrition facts, most will
-  be lost)
-- coconut oil, or preferred cooking oil (1 tablespoon)
+- olive oil (1 tablespoon, approx 14g), (119 calories, 0g protein, 0g carbs, 14g fat)
+- coconut oil (1 tablespoon, approx 14g), (117 calories, 0g protein, 0g carbs, 14g fat)
 
 **Nutrition total: 1320 calories, 212g protein, 16g carbs, 48g fat**
 

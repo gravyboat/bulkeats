@@ -10,6 +10,10 @@ grill marks. In addition I mix these with brown rice once they finish cooking
 and pack them into tortillas for more calories. The `Variable sides` section
 can be adjusted per your intake needs.
 
+.. image:: images/chickenfajitas.jpg
+    :alt: Chicken Fajitas
+    :align: center:
+
 **Total servings: 2 without sides, 4 with sides**
 
 **Prep time: 20 minutes | Cook time: 2 hours | Total Time: 2 hours**

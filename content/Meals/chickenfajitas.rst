@@ -12,7 +12,7 @@ can be adjusted per your intake needs.
 
 .. image:: images/chickenfajitas.jpg
     :alt: Chicken Fajitas
-    :align: center:
+    :align: center
 
 **Total servings: 2 without sides, 4 with sides**
 

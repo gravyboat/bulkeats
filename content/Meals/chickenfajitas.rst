@@ -14,7 +14,11 @@ can be adjusted per your intake needs.
     :alt: Chicken Fajitas
     :align: left
 
-| 
+.. |br| raw:: html
+
+    <br />
+
+|br|
 
 **Total servings: 2 without sides, 4 with sides**
 

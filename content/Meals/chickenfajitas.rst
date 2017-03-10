@@ -1,7 +1,7 @@
 Chicken Fajitas
 ===============
 :date: 2017-02-14
-:tags: meals, leftovers, chicken, meat
+:tags: meals, leftovers, meat
 :image: chickenfajitas_small.jpg
 
 Chicken fajitas are an easy meal you can add calories on to with minimal work.

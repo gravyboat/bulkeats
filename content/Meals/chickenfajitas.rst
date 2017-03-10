@@ -14,6 +14,8 @@ can be adjusted per your intake needs.
     :alt: Chicken Fajitas
     :align: left
 
+| 
+
 **Total servings: 2 without sides, 4 with sides**
 
 **Prep time: 20 minutes | Cook time: 2 hours | Total Time: 2 hours**

@@ -6,7 +6,7 @@ Swedish Meatball Slop
 
 Swedish meatball slop as I like to call it just deconstructs the idea of
 meatballs to make the meal easier to prepare and make in large quantities. It's
-a one pan dish, though you will need a few containers
+a one pan dish, though you will need a few containers.
 
 .. image:: images/swedishmeatballslop_large.jpg
     :alt: Swedish Meatball Slop

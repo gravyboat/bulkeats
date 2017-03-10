@@ -2,7 +2,6 @@ Vegetarian Burritos
 ===================
 :date: 2014-12-20
 :tags: meals
-:image: chickenfajitas.jpg
 
 It’s the holidays, and that means you might be considering a new laptop.
 You’ve probably heard about Chrome OS. Basically it’s Google’s web focused

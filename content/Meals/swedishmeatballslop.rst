@@ -1,8 +1,8 @@
 Swedish Meatball Slop
 =====================
-:date: 2014-12-20
+:date: 2017-03-05
 :tags: meals
-:image: chickenfajitas.jpg
+:image: swedishmeatballslop_small.jpg
 
 It’s the holidays, and that means you might be considering a new laptop.
 You’ve probably heard about Chrome OS. Basically it’s Google’s web focused

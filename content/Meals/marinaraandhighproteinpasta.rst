@@ -1,8 +1,8 @@
 Marinara Sauce and High Protein Pasta
 =====================================
-:date: 2014-12-20
+:date: 2017-02-17
 :tags: meals
-:image: chickenfajitas.jpg
+:image: marinarasauceandhighproteinpasta_small.jpg
 
 It’s the holidays, and that means you might be considering a new laptop.
 You’ve probably heard about Chrome OS. Basically it’s Google’s web focused

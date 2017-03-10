@@ -2,7 +2,7 @@ Chicken Fajitas
 ===============
 :date: 2017-02-14
 :tags: meals, leftovers
-:image: chickenfajitas.jpg
+:image: chickenfajitas_small.jpg
 
 Chicken fajitas are an easy meal you can add calories on to with minimal work.
 These fajitas are cooked in a single pan. This means they will lack the famous
@@ -10,9 +10,9 @@ grill marks. In addition I mix these with brown rice once they finish cooking
 and pack them into tortillas for more calories. The `Variable sides` section
 can be adjusted per your intake needs.
 
-.. image:: images/chickenfajitas.jpg
+.. image:: images/chickenfajitas_large.jpg
     :alt: Chicken Fajitas
-    :align: center
+    :align: left
 
 **Total servings: 2 without sides, 4 with sides**
 

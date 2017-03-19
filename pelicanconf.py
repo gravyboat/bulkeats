@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Bulk Eats'
-SITENAME = u'Bulk Eats'
+SITENAME = u'Bulk Eats | Get big not bored.'
 SITEURL = 'https://bulkeats.com'
 
 TIMEZONE = 'GMT'
@@ -32,7 +32,7 @@ DEFAULT_PAGINATION = 9
 PAGE_PATHS = ['content/pages']
 
 # Theme
-THEME = "themes/pelican-themes/pelican-bootstrap3"
+THEME = "themes/pelican-themes/pelican-bootstrap3-grid"
 BOOTSTRAP_THEME = "flatly"
 #DISPLAY_ARTICLE_INFO_ON_INDEX = True
 
@@ -41,7 +41,7 @@ PYGMENTS_STYLE = 'solarizeddark'
 
 # Custom css
 CUSTOM_CSS = 'static/custom.css'
-STATIC_PATHS = ['images', 'extra/custom.css']
+STATIC_PATHS = ['extra/custom.css']
 
 EXTRA_PATH_METADATA = {
         'extra/custom.css': {'path': 'static/custom.css'}
@@ -52,3 +52,4 @@ PLUGINS = ['minification']
 READERS = {'html': None}
 IGNORE_FILES = ['README.rst', 'LISEZ-MOI.rst']
 HIDE_SIDEBAR = True
+SUMMARY_MAX_LENGTH = 20

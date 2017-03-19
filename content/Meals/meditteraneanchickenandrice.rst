@@ -1,7 +1,8 @@
 Meditteranean Chicken and Rice
 ==============================
-:date: 2014-12-20
+:date: 2017-03-02
 :tags: meals
+:image: mediterraneanchickenandrice_small.jpg
 
 It’s the holidays, and that means you might be considering a new laptop.
 You’ve probably heard about Chrome OS. Basically it’s Google’s web focused

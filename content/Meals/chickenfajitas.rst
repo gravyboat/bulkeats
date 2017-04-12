@@ -24,7 +24,7 @@ Required Equipment
 ------------------
 Rice cooker (or not if you want to baby sit it)
 
-large pan
+large pan or dutch oven
 
 zip-top bags
 

@@ -8,6 +8,7 @@ Turkey slopp joes easy, relatively fast, and very simple to add calories on to
 with a variety of sides. They're great as leftovers and each meal can feel
 different depending on which sides you choose to eat with it. It's also a
 decent meal for cutting.
+
 .. image:: images/turkeysloppyjoes_large.jpg
     :alt: Turkey Sloppy Joes
     :align: left
@@ -26,12 +27,11 @@ large skillet
 Main Ingredients
 ----------------
 
-- 2 lbs ground turkey breast (raw) (1.5 lbs, approx 679g), (1120 calories, 210g protein, 0g carbs, 24g fat)
+- ground turkey breast (raw) (2 lbs, approx 900g), (1350 calories, 168g protein, 0g carbs, 75g fat)
 - (1 per 1.5 lbs of meat) (negligible nutrition facts)
 - (1 per 1.5 lbs of meat) (negligible nutrition facts)
-- yellow onion (1 per 1.5 lbs of meat, approx 200g), (260 calories, 2g protein,
+- yellow onion (1 per 2 lbs of meat, approx 200g), (260 calories, 2g protein,
   16g carbs, 22g fat)
-- limes (1 large lime per 1.5 lbs of meat) (negligible nutrition facts)
 - spices
 
   - cumin (1 teaspoon)

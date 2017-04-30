@@ -52,4 +52,4 @@ PLUGINS = ['minification']
 READERS = {'html': None}
 IGNORE_FILES = ['README.rst', 'LISEZ-MOI.rst']
 HIDE_SIDEBAR = True
-SUMMARY_MAX_LENGTH = 20
+SUMMARY_MAX_LENGTH = 15

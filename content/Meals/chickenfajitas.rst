@@ -34,7 +34,7 @@ Main Ingredients
 - chicken breast (raw) (1.5 lbs, approx 679g), (1120 calories, 210g protein, 0g carbs, 24g fat)
 - green pepper (1 per 1.5 lbs of meat) (24 calories, 1g protein, 6g carbs, 0g fat)
 - red pepper (1 per 1.5 lbs of meat) (37 calories, 1g protein, 7g carbs, 0g fat)
-- yellow onion (1 per 1.5 lbs of meat, approx 200g), (260 calories, 2g protein,
+- yellow onion (1 per 1.5 lbs of meat, approx 200g), (80 calories, 2g protein,
   16g carbs, 0g fat)
 - limes (1 large lime per 1.5 lbs of meat) (negligible nutrition facts)
 - spices
@@ -51,9 +51,9 @@ Main Ingredients
 - olive oil (1 tablespoon, approx 14g), (119 calories, 0g protein, 0g carbs, 14g fat)
 - coconut oil (1 tablespoon, approx 14g), (117 calories, 0g protein, 0g carbs, 14g fat)
 
-**Nutrition total: 1381 calories, 214g protein, 29g carbs, 28g fat**
+**Nutrition total: 1201 calories, 214g protein, 29g carbs, 28g fat**
 
-**Nutrition per meal: 460 calories, 71g protein, 10g carbs, 16g fat**
+**Nutrition per meal: 415 calories, 71g protein, 10g carbs, 16g fat**
 
 Variable Sides
 --------------

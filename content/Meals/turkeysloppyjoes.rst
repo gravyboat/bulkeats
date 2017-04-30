@@ -4,9 +4,9 @@ Turkey Sloppy Joes
 :tags: meals, meat
 :image: turkeysloppyjoes_small.jpg
 
-Turkey slopp joes easy, relatively fast, and very simple to add calories on to
-with a variety of sides. They're great as leftovers and each meal can feel
-different depending on which sides you choose to eat with it. It's also a
+Turkey sloppy joes are easy, relatively fast, and very simple to add calories
+on to with a variety of sides. They're great as leftovers and each meal can
+feel different depending on which sides you choose to eat with it. It's also a
 decent meal for cutting.
 
 .. image:: images/turkeysloppyjoes_large.jpg

@@ -10,9 +10,6 @@ grill marks. In addition I mix these with brown rice once they finish cooking
 and pack them into tortillas for more calories. The `Variable sides` section
 can be adjusted per your intake needs.
 
-.. image:: images/chickenfajitas_large.jpg
-    :alt: Chicken Fajitas
-    :align: left
 
 **Total servings: 4**
 

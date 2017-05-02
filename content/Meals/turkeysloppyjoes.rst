@@ -27,25 +27,24 @@ large skillet
 Main Ingredients
 ----------------
 
-- ground turkey breast (raw) (2 lbs, approx 900g), (1350 calories, 168g protein, 0g carbs, 75g fat)
-- (1 per 1.5 lbs of meat) (negligible nutrition facts)
-- (1 per 1.5 lbs of meat) (negligible nutrition facts)
-- yellow onion (1 per 2 lbs of meat, approx 200g), (260 calories, 2g protein,
-  16g carbs, 22g fat)
-- spices
-
-  - cumin (1 teaspoon)
-  - garlic granules (1 teaspoon)
-  - onion granules (1 teaspoon)
-  - smoked paprika (1/4 teaspoon)
-  - chile powder (1/2 teaspoon)
-  - cayenne pepper (1/4 teaspoon)
-  - salt (1/2 teaspoon)
-  - pepper (1/2 teaspoon)
+- ground turkey breast (raw) (2 lbs, approx 900g), (952 calories, 206g protein, 0g carbs, 12g fat)
+- yellow onion (1 per 1.5 lbs of meat, approx 200g), (80 calories, 2g protein,
+  16g carbs, 0g fat)
+- 1 can tomato sauce (15 oz, 425g), (140 calories, 0g protein, 28g carbs, 0g fat)
 - soy sauce (1 teaspoon)
-- olive oil (1 tablespoon, approx 14g), (119 calories, 0g protein, 0g carbs, 14g fat)
+- worchestershire sauce (1 tablespoon)
+- 1/2 cup tomato sauce (1/2 cup, 128g), (120 calories, 0g protein, 24g carbs, 0g fat)
+- 4 cloves garlic minced (negligible nutrition facts)
 - coconut oil (1 tablespoon, approx 14g), (117 calories, 0g protein, 0g carbs, 14g fat)
+- thin buns (8) (800 calories, 40g protein, 176g carbs, 8g fat)
 
 **Nutrition total: 1320 calories, 212g protein, 16g carbs, 48g fat**
 
 **Nutrition per meal: 440 calories, 70g protein, 5g carbs, 16g fat**
+
+sides
+-----
+
+- ground turkey breast (raw) (2 lbs, approx 900g), (952 calories, 206g protein, 0g carbs, 12g fat)
+- spicy baked beans (approx 2 cups, approx 455g), (420 calories, 24g protein, 73g carbs, 2g fat)
+

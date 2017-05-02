@@ -1,67 +1,48 @@
 Turkey Club Sandwiches
 ======================
-:date: 2014-12-20
-:tags: meals
+:date: 2017-04-30
+:tags: meals, leftovers, meat
+:image: turkeyclubsandwiches_small.jpg
 
-It’s the holidays, and that means you might be considering a new laptop.
-You’ve probably heard about Chrome OS. Basically it’s Google’s web focused
-operating system, and it runs on cheap laptops. I owned the original
-chromebook but it was pretty underpowered so I didn’t feel it would be fair to
-review it The one I bought a year ago was $250 US dollars,
-(http://www.amazon.om/gp/product/B00FNPD1OY ) and you can’t actually buy that 
-version any longer. Basically it has 4 gigs of RAM, a 16 gig hard drive and a
-1.4 ghz cpu. So I’ve been using this laptop every day for mostly simple tasks
-such as reading email, browsing the internet, watching videos, and
-occasionally working via SSH. So as a light use machine it’s pretty great.
-It gets the job done, and is generally fast enough for most tasks. I know that
-a lot of people will consider this as a major selling point, and say that for
-250 dollars you can’t really complain, but let’s talk about some things that
-only someone using the machine for a while would notice, and what the major
-drawbacks are.
+Chicken fajitas are an easy meal you can add calories on to with minimal work.
+These fajitas are cooked in a single pan. This means they will lack the famous
+grill marks. In addition I mix these with brown rice once they finish cooking
+and pack them into tortillas for more calories. The `Variable sides` section
+can be adjusted per your intake needs.
 
-Let’s start with the CPU, it’s okay, but it’s not great so sometimes
-things are a bit slow. Having a small hard drive is also tough, 
-16 gigs of space basically means I don’t use the Chromebook for anything 
-serious and even if I wanted to I couldn’t because support is pretty bad for
-the device. It’s made to browse the internet and use internet apps, and that’s
-basically it. Usually this is okay, but sometimes you’re out of luck. A great
-example of this was in early 2014. I had to spend the night in an airport, and
-figured ‘no big deal, I will do some work, I have my chromebook on me.’ but
-this wasn’t the case. The chromebook was unable to connect to the wi-fi
-available in the airport, why this is I don’t know, but I tried to
-troubleshoot it for over an hour without any luck. After that I tried
-tethering off my phone, and it still didn’t work even though my other devices
-could connect to both access points. Without internet the chromebook was
-crippled. Even apps that claimed they could run offline really could only do
-so when you had them open prior to disconnecting. I was screwed. I couldn’t
-work on a presentation, and it was generally useless. This is a major problem.
-Especially since you can’t SSH to the chromebook itself (unless you have it in
-developer mode), so no writing code while the device is offline to commit
-later. This was the first time the chromebook had let me down after owning it
-for 5 months. It was horrifying to realize I was basically out of luck with
-the laptop I had, at that point it was a 250 dollar brick with a screen. I was
-seriously regretting not having put a Linux distro on a thumb drive or SD card.
+.. image:: images/chickenfajitas_large.jpg
+    :alt: Chicken Fajitas
+    :align: left
 
-Moving back to using the chromebook itself, I use f.lux, twilight, and several
-other apps that adjust the lighting on my monitor/screens so that I can easily
-sleep at night. Unfortunately the chrome devs don’t care about this
-(https://code.google.com/p/chromium/issues/detail?id=217173 ) and it’s been
-an issue since October 2012! It’s infuriating that this is something they care
-so little about. This lack of functionality means I can’t use my chromebook
-prior to going to bed at all or I will have a hard time falling asleep. This
-is currently my biggest issue with the device since it’s basically just a
-laptop I use at home, but it shows that the development team either isn’t
-serious, or doesn’t care enough to open this functionality up so people can
-write their own app (and believe me they would, Integers of K wrote:
-https://chrome.google.com/webstore/detail/glux/hinolicfmhnjadpggledmhnffommefaf?hl=en as a
-workaround where it tries to modify the code on every page) but it’s
-frustrating and pathetic that this sort of issue has been open for so long.
+**Total servings: 4**
 
-So you’re probably reading through this and thinking ‘that is it? Those are
-you complaints? This seems great for 250 bucks.’ and honestly it is. If I
-could get an equivalent laptop running Linux I would.. Oh wait I can. Ignore
-the chromebook and Chrome OS unless Google actually gets serious about it, and
-instead just buy a cheap laptop (maybe even a chromebook) and put Linux on it.
-The devices themselves are great, but I'm not completely sold on the OS yet. It
-just doesn't meet my needs as a user that would like to do more than just
-browse the internet and read email.
+**Prep time: 10 minutes | Cook time: 0 minutes | Total Time: 15 minutes**
+
+**Nutrition facts per meal (with sides): 1412 calories, 96g protein, 182g carbs, 35g fat**
+
+Required Equipment
+------------------
+Rice cooker (or not if you want to baby sit it)
+
+large pan or dutch oven
+
+zip-top bags
+
+Main Ingredients
+----------------
+
+- Turkey lunch meat (2 lbs, approx 906g), (948 calories, 204g protein, 96g carbs, 8g fat)
+- turkey bacon (2 slices), (280 calories, 48g protein, 0g carbs, 12g fat)
+- Bread (8 slices, Dave's killer Bread), (960 calories, 40g protein, 176g carbs, 16g fat)
+- tomato (2 total), (44 calories, 2g protein, 10g carbs, 0g fat)
+- lettuce (negligible nutrition facts)
+- avocado (1, approx 400g), (322 calories, 4g protein, 17g carbs, 29g fat)
+
+**Nutrition total: 2554 calories, 298g protein, 279g carbs, 65g fat**
+
+**Nutrition per meal: 839 calories, 68g protein, 102g carbs, 29g fat**
+
+sides
+-----
+
+- high protein pretzels (7 oz, 210g), (840 calories, 35g protein, 154g carbs, 10g fat)

@@ -1,6 +1,6 @@
 Chicken and Potatoes
 ====================
-:date: 2017-04-11
+:date: 2017-03-11
 :tags: meals
 
 It’s the holidays, and that means you might be considering a new laptop.

@@ -1,6 +1,6 @@
 Making Brown Rice Delicious
 ===========================
-:date: 2017-03-21
+:date: 2017-02-21
 :tags: articles
 
 This post contains Amazon affiliate links to products I use and own so there

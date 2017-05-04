@@ -20,7 +20,9 @@ a one pan dish, though you will need a few containers.
 
 Required Equipment
 ------------------
-large pot
+large pot/dutch oven
+
+wooden spoon
 
 large secondary container (metal or glass is fine)
 
@@ -93,3 +95,15 @@ Preparation Instructions
 - Allow it to cook for another 5-10 minutes to get some of the starch from the
   pasta into the sauce. At this point you're ready to eat, adjust seasoning as needed.
 
+Tools used
+----------
+
+Dutch oven (Amazon affiliate link)
+
+wooden spoon (Amazon affiliate link)
+
+As usual all weight/calories/protein for things like meat are taken in an
+uncooked state and will be noted as such since there's too many variables. All
+nutrition values are taken from a Google search such as
+`yellow onion nutrition`. This means that nutritional counts may be slightly
+inaccurate, these are all approximations.

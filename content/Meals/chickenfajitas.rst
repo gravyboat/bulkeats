@@ -16,7 +16,7 @@ can be adjusted per your intake needs.
 
 **Total servings: 3 without sides, 4 with sides**
 
-**Prep time: 20 minutes | Cook time: 2 hours | Total Time: 2 hours**
+**Prep time: 20 minutes | Marinade time: ~1 hour | Cook time: 2 hours (rice), 20 minutes (fajitas) | Total Time: 2 hours**
 
 **Nutrition facts per meal (with sides): 1412 calories, 96g protein, 182g carbs, 35g fat**
 
@@ -37,8 +37,10 @@ Main Ingredients
 - yellow onion (1 per 1.5 lbs of meat, approx 200g), (80 calories, 2g protein,
   16g carbs, 0g fat)
 - limes (1 large lime per 1.5 lbs of meat) (negligible nutrition facts)
+- soy sauce (1 teaspoon)
+- olive oil (1 tablespoon, approx 14g), (119 calories, 0g protein, 0g carbs, 14g fat)
+- coconut oil (1 tablespoon, approx 14g), (117 calories, 0g protein, 0g carbs, 14g fat)
 - spices
-
   - cumin (1 teaspoon)
   - garlic granules (1 teaspoon)
   - onion granules (1 teaspoon)
@@ -47,9 +49,6 @@ Main Ingredients
   - cayenne pepper (1/4 teaspoon)
   - salt (1/2 teaspoon)
   - pepper (1/2 teaspoon)
-- soy sauce (1 teaspoon)
-- olive oil (1 tablespoon, approx 14g), (119 calories, 0g protein, 0g carbs, 14g fat)
-- coconut oil (1 tablespoon, approx 14g), (117 calories, 0g protein, 0g carbs, 14g fat)
 
 **Nutrition total: 1201 calories, 214g protein, 29g carbs, 28g fat**
 
@@ -95,7 +94,7 @@ Preparation Instructions
 - Once the chicken is done cooking and the liquid has been reduced turn off the
   heat, at this point your brown rice should be done cooking.
 - If the pan is large enough add the rice and stir to combine, serve immediately
-  with your preferred toppings.
+  with your preferred toppings in tortillas or plain
 
 Tools used
 ----------

@@ -53,3 +53,4 @@ READERS = {'html': None}
 IGNORE_FILES = ['README.rst', 'LISEZ-MOI.rst']
 HIDE_SIDEBAR = True
 SUMMARY_MAX_LENGTH = 15
+TWITTER_USERNAME = 'bulkeats'

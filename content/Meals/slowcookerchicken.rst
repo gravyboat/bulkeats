@@ -4,65 +4,90 @@ Slow Cooker Chicken
 :tags: meals
 :image: slowcookerchicken_small.jpg
 
-It’s the holidays, and that means you might be considering a new laptop.
-You’ve probably heard about Chrome OS. Basically it’s Google’s web focused
-operating system, and it runs on cheap laptops. I owned the original
-chromebook but it was pretty underpowered so I didn’t feel it would be fair to
-review it The one I bought a year ago was $250 US dollars,
-(http://www.amazon.om/gp/product/B00FNPD1OY ) and you can’t actually buy that 
-version any longer. Basically it has 4 gigs of RAM, a 16 gig hard drive and a
-1.4 ghz cpu. So I’ve been using this laptop every day for mostly simple tasks
-such as reading email, browsing the internet, watching videos, and
-occasionally working via SSH. So as a light use machine it’s pretty great.
-It gets the job done, and is generally fast enough for most tasks. I know that
-a lot of people will consider this as a major selling point, and say that for
-250 dollars you can’t really complain, but let’s talk about some things that
-only someone using the machine for a while would notice, and what the major
-drawbacks are.
+Slow cooker chicken is one of those meals you can eat over and over again.
+It's one of my favorites on the list because it's so low effort and turns out
+delicious every time. You can also make your own beans to reduce costs.
 
-Let’s start with the CPU, it’s okay, but it’s not great so sometimes
-things are a bit slow. Having a small hard drive is also tough, 
-16 gigs of space basically means I don’t use the Chromebook for anything 
-serious and even if I wanted to I couldn’t because support is pretty bad for
-the device. It’s made to browse the internet and use internet apps, and that’s
-basically it. Usually this is okay, but sometimes you’re out of luck. A great
-example of this was in early 2014. I had to spend the night in an airport, and
-figured ‘no big deal, I will do some work, I have my chromebook on me.’ but
-this wasn’t the case. The chromebook was unable to connect to the wi-fi
-available in the airport, why this is I don’t know, but I tried to
-troubleshoot it for over an hour without any luck. After that I tried
-tethering off my phone, and it still didn’t work even though my other devices
-could connect to both access points. Without internet the chromebook was
-crippled. Even apps that claimed they could run offline really could only do
-so when you had them open prior to disconnecting. I was screwed. I couldn’t
-work on a presentation, and it was generally useless. This is a major problem.
-Especially since you can’t SSH to the chromebook itself (unless you have it in
-developer mode), so no writing code while the device is offline to commit
-later. This was the first time the chromebook had let me down after owning it
-for 5 months. It was horrifying to realize I was basically out of luck with
-the laptop I had, at that point it was a 250 dollar brick with a screen. I was
-seriously regretting not having put a Linux distro on a thumb drive or SD card.
+.. image:: images/slowcookerchicken_large.jpg
+    :alt: Slow Cooker Chicken
+    :align: left
 
-Moving back to using the chromebook itself, I use f.lux, twilight, and several
-other apps that adjust the lighting on my monitor/screens so that I can easily
-sleep at night. Unfortunately the chrome devs don’t care about this
-(https://code.google.com/p/chromium/issues/detail?id=217173 ) and it’s been
-an issue since October 2012! It’s infuriating that this is something they care
-so little about. This lack of functionality means I can’t use my chromebook
-prior to going to bed at all or I will have a hard time falling asleep. This
-is currently my biggest issue with the device since it’s basically just a
-laptop I use at home, but it shows that the development team either isn’t
-serious, or doesn’t care enough to open this functionality up so people can
-write their own app (and believe me they would, Integers of K wrote:
-https://chrome.google.com/webstore/detail/glux/hinolicfmhnjadpggledmhnffommefaf?hl=en as a
-workaround where it tries to modify the code on every page) but it’s
-frustrating and pathetic that this sort of issue has been open for so long.
+**Total servings: 5 without sides, 5+ with sides**
 
-So you’re probably reading through this and thinking ‘that is it? Those are
-you complaints? This seems great for 250 bucks.’ and honestly it is. If I
-could get an equivalent laptop running Linux I would.. Oh wait I can. Ignore
-the chromebook and Chrome OS unless Google actually gets serious about it, and
-instead just buy a cheap laptop (maybe even a chromebook) and put Linux on it.
-The devices themselves are great, but I'm not completely sold on the OS yet. It
-just doesn't meet my needs as a user that would like to do more than just
-browse the internet and read email.
+**Prep time: 15 minutes | Cook time: 6 hours | Total Time: 6 hours 15 minutes**
+
+**Nutrition facts per meal (with sides): 1662 calories, 128g protein, 232g carbs, 24g fat**
+
+Required Equipment
+------------------
+
+slow cooker
+
+Main Ingredients
+----------------
+
+- chicken breast (raw) (3 lbs, approx 1358g), (2240 calories, 420g protein, 0g carbs, 48g fat)
+- yellow onion (1 per 3 lbs of meat, approx 200g), (80 calories, 2g protein,
+  16g carbs, 0g fat)
+- limes (1 large lime per 3 lbs of meat) (negligible nutrition facts)
+- 1 container (preferably fresh) favorite salsa (16 oz, 450g), (120 calories, 0g porotein, 32g carbs, 0g fat)
+- 1 bunch cilantro (~100g), (23 calories, 2g protein, 3g carbs, 0g fat)
+- 3 cans black beans (30 oz, 780g), (1080 calories, 72g protein, 198g carbs, 0g fat)
+- 3 cans pinto beans (30 oz, 780g), (810 calories, 45g protein, 171 carbs, 0g fat)
+- spices
+  - cumin (2 teaspoon)
+  - garlic granules (2 teaspoon)
+  - onion granules (2 teaspoon)
+  - smoked paprika (1/2 teaspoon)
+  - chile powder (2 teaspoon)
+  - cayenne pepper (1/2 teaspoon)
+  - oregano (1 teaspoon)
+  - salt (1 teaspoon)
+  - pepper (1 teaspoon)
+
+**Nutrition total: 4353 calories, 541g protein, 420g carbs, 48g fat**
+
+**Nutrition per meal: 870 calories, 108g protein, 84g carbs, 10g fat**
+
+Variable Sides
+--------------
+
+- brown rice (cooked) (10 cups, approx 1950g), (2160 calories, 50g protein, 450g carbs, 18g fat)
+- Tortillas (10) (nutrition dependent on brand, as an example: 1800 calories,
+  50g protein, 290g carbs, 50g fat) I usually eat 2 burrito sized flour tortillas
+  per meal in addition to the rice.
+ 
+**Nutrition total: 3960 calories, 100g protein, 740g carbs, 68g fat**
+
+**Nutrition per meal: 792 calories, 20g protein, 148g carbs, 14g fat**
+
+Preparation Instructions
+------------------------
+
+- Open and drain all the cans of beans, we don't want extra liquid
+- Dice the yellow onion and cilantro
+- Trim your chicken breast and cut them in half length wise so they are
+  thinner.
+- Dump the beans, onions, cilantro, salsa, and spices into your crock
+  pot then stir them all up
+- Juice the lime into this mixture
+- Add the chicken breast and stir to combine
+- Cook on high for 6 hours, at the 5 hour mark take the top off and use two
+  forks to shred the chicken then mix it back in.
+- Season to taste, you will most likely need more salt
+- In the event you have too much liquid you can always transfer it to a large
+  pot/pan and boil off the excess liquid
+- Serve over rice with the tortillas (or other sides) and top with anything
+  you want, for extra calories you can add on diced avocado, sour cream, or a
+  variety of other things.
+
+Tools used
+----------
+
+slow cooker (Amazon affiliate link)
+
+As usual all weight/calories/protein for things like meat are taken in an
+uncooked state and will be noted as such since there's too many variables. All
+nutrition values are taken from a Google search such as
+`yellow onion nutrition`. This means that nutritional counts may be slightly
+inaccurate, these are all approximations.

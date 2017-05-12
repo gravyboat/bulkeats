@@ -22,9 +22,11 @@ it can become delicious.
 Required Equipment
 ------------------
 
-large deep pan or dutch oven that can go in the oven
+Large deep pan or dutch oven that can go in the oven
 
-large pot
+Large pot
+
+Wooden spoon
 
 Main Ingredients
 ----------------

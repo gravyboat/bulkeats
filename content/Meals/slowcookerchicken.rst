@@ -83,21 +83,21 @@ Preparation Instructions
 
 Tools used
 ----------
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_tracking_id = "bulkeats-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Tools Used";
-amzn_assoc_linkid = "54d38e16faff6fa487420bdae3d9dea7";
-amzn_assoc_asins = "B00EZI26DW";
-amzn_assoc_rows = "4";
-amzn_assoc_design = "text_links";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+.. raw:: html
+  <script type="text/javascript">
+  amzn_assoc_placement = "adunit0";
+  amzn_assoc_tracking_id = "bulkeats-20";
+  amzn_assoc_ad_mode = "manual";
+  amzn_assoc_ad_type = "smart";
+  amzn_assoc_marketplace = "amazon";
+  amzn_assoc_region = "US";
+  amzn_assoc_title = "Tools Used";
+  amzn_assoc_linkid = "54d38e16faff6fa487420bdae3d9dea7";
+  amzn_assoc_asins = "B00EZI26DW";
+  amzn_assoc_rows = "4";
+  amzn_assoc_design = "text_links";
+  </script>
+  <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 As usual all weight/calories/protein for things like meat are taken in an
 uncooked state and will be noted as such since there's too many variables. All

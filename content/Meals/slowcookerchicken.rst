@@ -81,9 +81,6 @@ Preparation Instructions
   you want, for extra calories you can add on diced avocado, sour cream, or a
   variety of other things.
 
-Tools used
-----------
-
 .. raw:: html
 
   <script type="text/javascript">
@@ -93,7 +90,7 @@ Tools used
   amzn_assoc_ad_type = "smart";
   amzn_assoc_marketplace = "amazon";
   amzn_assoc_region = "US";
-  amzn_assoc_title = "Tools Used";
+  amzn_assoc_title = "slow cooker";
   amzn_assoc_linkid = "54d38e16faff6fa487420bdae3d9dea7";
   amzn_assoc_asins = "B00EZI26DW";
   amzn_assoc_rows = "4";

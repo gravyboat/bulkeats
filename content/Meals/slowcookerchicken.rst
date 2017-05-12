@@ -83,7 +83,9 @@ Preparation Instructions
 
 Tools used
 ----------
+
 .. raw:: html
+
   <script type="text/javascript">
   amzn_assoc_placement = "adunit0";
   amzn_assoc_tracking_id = "bulkeats-20";

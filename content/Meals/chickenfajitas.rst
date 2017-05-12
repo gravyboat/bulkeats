@@ -22,11 +22,14 @@ can be adjusted per your intake needs.
 
 Required Equipment
 ------------------
-Rice cooker (or not if you want to baby sit it)
 
-large pan or dutch oven
+Large pot/pan or dutch oven
 
-zip-top bags
+Rice cooker (if you don't want to cook your rice manually)
+
+Wooden spoons
+
+Zip-top bags (make sure they aren't garbage, you don't want this bursting)
 
 Main Ingredients
 ----------------
@@ -99,9 +102,22 @@ Preparation Instructions
 Tools used
 ----------
 
-Rice cooker (Amazon affiliate link)
+.. raw:: html
 
-Dutch oven (Amazon affiliate link)
+  <script type="text/javascript">
+  amzn_assoc_placement = "adunit0";
+  amzn_assoc_tracking_id = "bulkeats-20";
+  amzn_assoc_ad_mode = "manual";
+  amzn_assoc_ad_type = "smart";
+  amzn_assoc_marketplace = "amazon";
+  amzn_assoc_region = "US";
+  amzn_assoc_title = "";
+  amzn_assoc_linkid = "54d38e16faff6fa487420bdae3d9dea7";
+  amzn_assoc_asins = "B0017HRLFC,B01EVHWNVG,B008H2JLP8,B00HWF4E7G";
+  amzn_assoc_rows = "4";
+  amzn_assoc_design = "text_links";
+  </script>
+  <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 As usual all weight/calories/protein for things like meat are taken in an
 uncooked state and will be noted as such since there's too many variables. All

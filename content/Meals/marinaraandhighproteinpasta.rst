@@ -53,3 +53,32 @@ Main Ingredients
 **Nutrition total: 1320 calories, 212g protein, 16g carbs, 48g fat**
 
 **Nutrition per meal: 440 calories, 70g protein, 5g carbs, 16g fat**
+
+Preparation Instructions
+------------------------
+
+Tools used
+----------
+
+.. raw:: html
+
+  <script type="text/javascript">
+  amzn_assoc_placement = "adunit0";
+  amzn_assoc_tracking_id = "bulkeats-20";
+  amzn_assoc_ad_mode = "manual";
+  amzn_assoc_ad_type = "smart";
+  amzn_assoc_marketplace = "amazon";
+  amzn_assoc_region = "US";
+  amzn_assoc_title = "";
+  amzn_assoc_linkid = "54d38e16faff6fa487420bdae3d9dea7";
+  amzn_assoc_asins = "B0017HRLFC,B009JXPS6U,B008H2JLP8";
+  amzn_assoc_rows = "4";
+  amzn_assoc_design = "text_links";
+  </script>
+  <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+As usual all weight/calories/protein for things like meat are taken in an
+uncooked state and will be noted as such since there's too many variables. All
+nutrition values are taken from a Google search such as
+`yellow onion nutrition`. This means that nutritional counts may be slightly
+inaccurate, these are all approximations.

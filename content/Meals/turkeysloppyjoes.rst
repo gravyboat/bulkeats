@@ -17,7 +17,7 @@ decent meal for cutting.
 
 **Prep time: 10 minutes | Cook time: 50 minutes | Total Time: 1 hour**
 
-**Nutrition facts per meal (with sides): 1700 calories, 100g protein, 22g carbs, 48g fat**
+**Nutrition facts per meal (with sides): 1811 calories, 92g protein, 271g carbs, 41g fat**
 
 Required Equipment
 ------------------
@@ -51,7 +51,7 @@ Main Ingredients
 
 **Nutrition total: 2206 calories, 248g protein, 216g carbs, 34g fat**
 
-**Nutrition per meal: 440 calories, 70g protein, 5g carbs, 16g fat**
+**Nutrition per meal: 551 calories, 62g protein, 54g carbs, 9g fat**
 
 Variable Sides
 --------------

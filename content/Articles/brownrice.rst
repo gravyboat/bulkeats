@@ -55,16 +55,6 @@ for rice which I've linked below. Washing your rice helps to get rid of some
 of the hulls since eating those sucks and they're much more common with brown
 rice than white rice.
 
-Recognize That the Cup Measure From Your Rice Cooker Isn't a Real Cup Measure
------------------------------------------------------------------------------
-
-This one is actually kind of annoying. Most rice cookers have some kind of
-cup that they come with that isn't an actual cup measure, that's why I'm
-putting quotes around 'cup' every time I use it going forward, this is two
-rice cooker 'cups', and for me it makes about 4 cooked cups of rice (I don't
-do this for recipes and instead just look at cooked cups of rice and their
-equivalent weight in grams). Understanding this can help you make better rice.
-
 Use a Rice Cooker
 -----------------
 
@@ -80,6 +70,16 @@ worry about this since my rice cooker is programmable so I just set it for
 when I want the rice and it's ready to go, but for some people this might be
 a big deal. Either way, a rice cooker made me go from hating brown rice to
 loving it, I cannot stress how much better this makes eating a lot of rice.
+
+Recognize That the Cup Measure From Your Rice Cooker Isn't a Real Cup Measure
+-----------------------------------------------------------------------------
+
+This one is actually kind of annoying. Most rice cookers have some kind of
+cup that they come with that isn't an actual cup measure, that's why I'm
+putting quotes around 'cup' every time I use it going forward, this is two
+rice cooker 'cups', and for me it makes about 4 cooked cups of rice (I don't
+do this for recipes and instead just look at cooked cups of rice and their
+equivalent weight in grams). Understanding this can help you make better rice.
 
 Add Oil to Your Rice
 --------------------

@@ -29,10 +29,10 @@ The Preamble
 
 There are a number of recipes on Bulk Eats that talk about cooking
 chicken breast and eating it alongside other things. About two years ago I
-purchased a sous video cooker. Originally it was for red meat, but I learned
-what truly makes it amazing is helping to cook the juiciest and most tender
+purchased a sous video cooker and originally it was for red meat but I
+quickly learned what truly makes it amazing is cooking the juiciest 
 chicken I've ever eaten. Any pictures you see on the site where it's just
-a cooked and sliced chicken breast has been cooked via sous vide. So with
+a cooked and sliced chicken breast was cooked via sous vide. So with
 that let's get to talking about why sous vide is so awesome for bulking.
 
 Sous Vide Lets You Cook in Bulk

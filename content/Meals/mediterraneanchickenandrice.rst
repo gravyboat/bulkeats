@@ -66,7 +66,7 @@ Variable Sides
 **Nutrition per meal: 654 calories, 22g protein, 118g carbs, 10g fat**
 
 Preparation Instructions
------------------------
+------------------------
 
 - Start cooking the brown rice, I recommend the mediterranean blend
   noted here: 

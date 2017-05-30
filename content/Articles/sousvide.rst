@@ -15,8 +15,10 @@ cooker is a worthwhile investment for you.
     :align: left
 
 .. |br| raw:: html
+
     <br />
 
+|br|
 This post contains Amazon affiliate links to products I use and own so there
 is an incentive behind having you click on them. That being said the advice
 I'm presenting helped make my sous vide cooking easier, so I want to share it.

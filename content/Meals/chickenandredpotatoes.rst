@@ -9,7 +9,7 @@ review my `sous vide article <LINK HERE>`_ if you're thinking about that) if you
 to, or just in a pan. Keep in mind that we lose 15-20% of the potatoes weight
 when they're cooked, so while we buy 6 pounds, we're losing nearly 1/4 of that.
 
-.. image:: images/chickenfajitas_large.jpg
+.. image:: images/chickenandredpotatoes_large.jpg
     :alt: Chicken and Red Potatoes
     :align: left
 

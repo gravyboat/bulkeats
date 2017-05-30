@@ -41,7 +41,7 @@ prep. As I noted you can cook in bulk, and due to this you can finish your
 meat very quickly. Since it's already up to temperature and cooked, you only
 need 30 seconds to a minute on each side in a hot pan with a small amount of
 oil to get the delicious power that is the
-`Maillard reaction<https://en.wikipedia.org/wiki/Maillard_reaction>`_. So with
+`Maillard reaction <https://en.wikipedia.org/wiki/Maillard_reaction>`_. So with
 sous vide I typically have 8 chicken breast halves, which I then cook two at a
 time in a pan. This means all my chicken is nice and golden on the outside in
 4-5 minutes total. A huge improvement over batch cooking for upwards of 20-30
@@ -131,8 +131,8 @@ there are now some manufacturers selling lids that fit around the cooker more
 precisely but that didn't exist when I purchased mine, and there's no way I'm
 spending $20 for a plastic lid when I can just cut a hole myself:
 
-`Anova sous vide cooker (Amazon Affiliate link)<https://www.amazon.com/Anova-Culinary-Bluetooth-Precision-Cooker/dp/B00UKPBXM4/ref=as_li_ss_tl?ie=UTF8&qid=1495428868&sr=8-2&keywords=anova+cooker&linkCode=ll1&tag=bulkeats-20&linkId=454fd45235d96d9349b854e14eb0c3cd>`_
+`Anova sous vide cooker (Amazon Affiliate link) <https://www.amazon.com/Anova-Culinary-Bluetooth-Precision-Cooker/dp/B00UKPBXM4/ref=as_li_ss_tl?ie=UTF8&qid=1495428868&sr=8-2&keywords=anova+cooker&linkCode=ll1&tag=bulkeats-20&linkId=454fd45235d96d9349b854e14eb0c3cd>`_
 
-`Polycarbonate container (Amazon Affiliate link)<https://www.amazon.com/gp/product/B0001MRUKA/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=bulkeats-20&linkId=e4fa0564485560da7f66f01ee95566f8>`_
+`Polycarbonate container (Amazon Affiliate link) <https://www.amazon.com/gp/product/B0001MRUKA/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=bulkeats-20&linkId=e4fa0564485560da7f66f01ee95566f8>`_
 
-`Container lid (Amazon Affiliate link)<https://www.amazon.com/gp/product/B002PMV79E/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=bulkeats-20&linkId=1b189ce311c5e64bae2270e689775beb>`_
+`Container lid (Amazon Affiliate link) <https://www.amazon.com/gp/product/B002PMV79E/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=bulkeats-20&linkId=1b189ce311c5e64bae2270e689775beb>`_

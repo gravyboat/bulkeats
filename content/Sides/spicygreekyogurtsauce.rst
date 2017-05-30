@@ -47,8 +47,8 @@ Preparation Instructions
 Tools used
 ----------
 
-`Grater (Amazon Affiliate link)<https://www.amazon.com/OXO-Good-Grips-Zester-Grater/dp/B004VLYQGS/ref=as_li_ss_tl?ie=UTF8&qid=1496117097&sr=8-1&keywords=oxo+microplane&linkCode=ll1&tag=bulkeats-20&linkId=882908b3477c82867e10e25835ba6420>`_
+`Grater (Amazon Affiliate link) <https://www.amazon.com/OXO-Good-Grips-Zester-Grater/dp/B004VLYQGS/ref=as_li_ss_tl?ie=UTF8&qid=1496117097&sr=8-1&keywords=oxo+microplane&linkCode=ll1&tag=bulkeats-20&linkId=882908b3477c82867e10e25835ba6420>`_
 
-`Glass storage containers (Amazon Affiliate link)<https://www.amazon.com/Pyrex-Piece-Rectangle-Storage-Containers/dp/B01MSON5MP/ref=as_li_ss_tl?s=home-garden&ie=UTF8&qid=1496116886&sr=1-12&keywords=pyrex+container&linkCode=ll1&tag=bulkeats-20&linkId=0c585b0020262a4d9ab0950e15bb9079>`_
+`Glass storage containers (Amazon Affiliate link) <https://www.amazon.com/Pyrex-Piece-Rectangle-Storage-Containers/dp/B01MSON5MP/ref=as_li_ss_tl?s=home-garden&ie=UTF8&qid=1496116886&sr=1-12&keywords=pyrex+container&linkCode=ll1&tag=bulkeats-20&linkId=0c585b0020262a4d9ab0950e15bb9079>`_
 
-`Secret Aardvark Hot Sauce (Amazon Affiliate link)<https://www.amazon.com/Secret-Aardvark-Habanero-Sauce/dp/B00AIR3Q38/ref=as_li_ss_tl?ie=UTF8&qid=1495345758&sr=8-1&keywords=secret+aardvark&th=1&linkCode=ll1&tag=bulkeats-20&linkId=727c8bbc0b3928189622a0268a57511b>`_
+`Secret Aardvark Hot Sauce (Amazon Affiliate link) <https://www.amazon.com/Secret-Aardvark-Habanero-Sauce/dp/B00AIR3Q38/ref=as_li_ss_tl?ie=UTF8&qid=1495345758&sr=8-1&keywords=secret+aardvark&th=1&linkCode=ll1&tag=bulkeats-20&linkId=727c8bbc0b3928189622a0268a57511b>`_

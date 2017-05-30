@@ -102,11 +102,11 @@ Preparation Instructions
 Tools used
 ----------
 
-`Pots and pans (Amazon Affiliate link)<https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_
+`Pots and pans (Amazon Affiliate link) <https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_
 
-`Dutch oven (Amazon Affiliate link)<https://www.amazon.com/Cuisinart-CI670-30CR-Enameled-Casserole-Cardinal/dp/B0017HRLFC/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0017HRLFC&pd_rd_r=WHRBF6BW1CEEY1Q1JE2W&pd_rd_w=L6Tti&pd_rd_wg=noBi7&psc=1&refRID=WHRBF6BW1CEEY1Q1JE2W&linkCode=ll1&tag=bulkeats-20&linkId=ead91ab540820a719474d2e7ef41917c>`_
+`Dutch oven (Amazon Affiliate link) <https://www.amazon.com/Cuisinart-CI670-30CR-Enameled-Casserole-Cardinal/dp/B0017HRLFC/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0017HRLFC&pd_rd_r=WHRBF6BW1CEEY1Q1JE2W&pd_rd_w=L6Tti&pd_rd_wg=noBi7&psc=1&refRID=WHRBF6BW1CEEY1Q1JE2W&linkCode=ll1&tag=bulkeats-20&linkId=ead91ab540820a719474d2e7ef41917c>`_
 
-`Wooden Spoons (Amazon Affiliate link)<https://www.amazon.com/OXO-Grips-Wooden-Spoon-3-Piece/dp/B008H2JLP8/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bulkeats-20&linkId=3be1f99f3ff3085aea4a562d2d7c47cd>`
+`Wooden Spoons (Amazon Affiliate link) <https://www.amazon.com/OXO-Grips-Wooden-Spoon-3-Piece/dp/B008H2JLP8/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bulkeats-20&linkId=3be1f99f3ff3085aea4a562d2d7c47cd>`
 
 As usual all weight/calories/protein for things like meat are taken in an
 uncooked state and will be noted as such since there's too many variables. All

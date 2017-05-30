@@ -56,7 +56,7 @@ Variable Sides
 --------------
 
 - brown rice (cooked) (10 cups, approx 1950g), (2160 calories, 50g protein, 450g carbs, 18g fat)
-- `Spicy greek yogurt sauce<LINK HERE>`_ (455 calories, 40g protein, 21g carb, 22g fat)
+- `Spicy greek yogurt sauce <LINK HERE>`_ (455 calories, 40g protein, 21g carb, 22g fat)
 - hummus (whatever your favorite brand is)
 - pita bread
 - assorted diced veggies
@@ -89,14 +89,14 @@ Preparation Instructions
 Tools used
 ----------
 
-`Pots and pans (Amazon Affiliate link)<https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_
+`Pots and pans (Amazon Affiliate link) <https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_
 
-`Meat thermometer (Standard link)<http://www.thermoworks.com/ThermoPop>`_
+`Meat thermometer (Standard link) <http://www.thermoworks.com/ThermoPop>`_
 
-`Rice cooker (Amazon Affiliate link)<https://www.amazon.com/Zojirushi-NS-LHC05XT-Cooker-Warmer-Stainless/dp/B01EVHWNQQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bulkeats-20&linkId=d693219a87659abab9b5fc9740997dde>`_
+`Rice cooker (Amazon Affiliate link) <https://www.amazon.com/Zojirushi-NS-LHC05XT-Cooker-Warmer-Stainless/dp/B01EVHWNQQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bulkeats-20&linkId=d693219a87659abab9b5fc9740997dde>`_
 
 .. note::
    Please review my article on better brown rice prior to purchasing the
    above rice cooker if you want to have a lot of leftover rice.
 
-`Secret Aardvark Hot Sauce (Amazon Affiliate link)<https://www.amazon.com/Secret-Aardvark-Habanero-Sauce/dp/B00AIR3Q38/ref=as_li_ss_tl?ie=UTF8&qid=1495345758&sr=8-1&keywords=secret+aardvark&th=1&linkCode=ll1&tag=bulkeats-20&linkId=727c8bbc0b3928189622a0268a57511b>`_
+`Secret Aardvark Hot Sauce (Amazon Affiliate link) <https://www.amazon.com/Secret-Aardvark-Habanero-Sauce/dp/B00AIR3Q38/ref=as_li_ss_tl?ie=UTF8&qid=1495345758&sr=8-1&keywords=secret+aardvark&th=1&linkCode=ll1&tag=bulkeats-20&linkId=727c8bbc0b3928189622a0268a57511b>`_

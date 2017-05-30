@@ -92,9 +92,9 @@ Preparation Instructions
 Tools used
 ----------
 
-`Pots and pans (Amazon Affiliate link)<https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_
+`Pots and pans (Amazon Affiliate link) <https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_
 
-`Baking sheet (Amazon Affiliate link)<https://www.amazon.com/gp/product/B000G0KJG4/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=bulkeats-20&linkId=8aa77706fe6a482ec2e9c76ba25eb88c>`_
+`Baking sheet (Amazon Affiliate link) <https://www.amazon.com/gp/product/B000G0KJG4/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=bulkeats-20&linkId=8aa77706fe6a482ec2e9c76ba25eb88c>`_
 
 `Meat thermometer (Standard link) <http://www.thermoworks.com/ThermoPop>`_
 

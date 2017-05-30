@@ -5,7 +5,7 @@ Chicken and Red Potatoes
 :image: chickenandredpotatoes_small.jpg
 
 This is another easy dish where you can make the chicken sous vide (please
-review my `sous vide article<>`_ if you're thinking about that) if you want
+review my `sous vide article <>`_ if you're thinking about that) if you want
 to, or just in a pan. Keep in mind that we lose 15-20% of the potatoes weight
 when they're cooked, so while we buy 6 pounds, we're losing nearly 1/4 of that.
 
@@ -44,7 +44,7 @@ Main Ingredients
 Variable Sides
 --------------
 
-- `balsamic mushrooms<LINK HERE>`_ (336 calories, 22g protein, 33g carbs, 18g fat)
+- `balsamic mushrooms <LINK HERE>`_ (336 calories, 22g protein, 33g carbs, 18g fat)
 
 **Nutrition total: 336 calories, 22g protein, 33g carbs, 18g fat**
 
@@ -85,9 +85,9 @@ Preparation Instructions
 Tools used
 ----------
 
-`Pots and pans (Amazon Affiliate link)<https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_
+`Pots and pans (Amazon Affiliate link) <https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_
 
-`Baking sheet (Amazon Affiliate link)<https://www.amazon.com/gp/product/B000G0KJG4/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=bulkeats-20&linkId=8aa77706fe6a482ec2e9c76ba25eb88c>`_
+`Baking sheet (Amazon Affiliate link) <https://www.amazon.com/gp/product/B000G0KJG4/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=bulkeats-20&linkId=8aa77706fe6a482ec2e9c76ba25eb88c>`_
 
 .. note::
     I recommend a container with a heavier bottom than the baking sheets
@@ -96,4 +96,4 @@ Tools used
     but you might get red peppers that are a little more roasted than you
     prefer.
    
-`Meat thermometer (Standard link)<http://www.thermoworks.com/ThermoPop>`_
+`Meat thermometer (Standard link) <http://www.thermoworks.com/ThermoPop>`_

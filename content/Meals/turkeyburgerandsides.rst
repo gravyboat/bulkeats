@@ -59,8 +59,8 @@ Main Ingredients
 
 **Nutrition per meal: 440 calories, 70g protein, 5g carbs, 16g fat**
 
-sides
------
+Variable Sides
+--------------
 
 - Sweet potato fries (4 bag, approx 504g each), (3360 calories, 24g protein, 576g carbs, 120g fat)
 - spicy baked beans (4 cans, approx 2 cups, 455g each), (1680 calories, 96g protein, 292g carbs, 8g fat)
@@ -89,7 +89,7 @@ Preparation Instructions
 - Remove patties from pan and allow to rest for 2 minutes
 - Top with any toppings you want and plate with your sides
 
-Tools used
+Tools Used
 ----------
 
 `Pots and pans (Amazon Affiliate link) <https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_

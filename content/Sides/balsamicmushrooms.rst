@@ -55,7 +55,7 @@ Preparation Instructions
 - Cook for 20-30 minutes, stirring once half way through the cooking time.
 - Finely chop the parsley and sprinkle on top when serving.
 
-Tools used
+Tools Used
 ----------
 
 `Baking sheet (Amazon Affiliate link) <https://www.amazon.com/gp/product/B000G0KJG4/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=bulkeats-20&linkId=8aa77706fe6a482ec2e9c76ba25eb88c>`_

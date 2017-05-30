@@ -99,7 +99,7 @@ Preparation Instructions
 - Allow it to cook for another 5-10 minutes to get some of the starch from the
   pasta into the sauce. At this point you're ready to eat, adjust seasoning as needed.
 
-Tools used
+Tools Used
 ----------
 
 `Pots and pans (Amazon Affiliate link) <https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_

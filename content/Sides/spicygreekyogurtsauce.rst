@@ -40,11 +40,11 @@ Preparation Instructions
 ------------------------
 
 - Grate or finely mince the garlic.
-- Combine yogurt, vinegar, garlic, dill, and hot sauce, stir to combine.
+- Combine yogurt, vinegar, garlic, dill, and hot sauce, stir thoroughly.
 - Let rest for ~2 hours, you can get by with as little as an hour, but the
   longer you let it sit, the better it gets.
 
-Tools used
+Tools Used
 ----------
 
 `Grater (Amazon Affiliate link) <https://www.amazon.com/OXO-Good-Grips-Zester-Grater/dp/B004VLYQGS/ref=as_li_ss_tl?ie=UTF8&qid=1496117097&sr=8-1&keywords=oxo+microplane&linkCode=ll1&tag=bulkeats-20&linkId=882908b3477c82867e10e25835ba6420>`_

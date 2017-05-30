@@ -99,7 +99,7 @@ Preparation Instructions
 - If the pan is large enough add the rice and stir to combine, serve immediately
   with your preferred toppings in tortillas or plain
 
-Tools used
+Tools Used
 ----------
 
 `Dutch oven (Amazon Affiliate link) <https://www.amazon.com/Cuisinart-CI670-30CR-Enameled-Casserole-Cardinal/dp/B0017HRLFC/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0017HRLFC&pd_rd_r=WHRBF6BW1CEEY1Q1JE2W&pd_rd_w=L6Tti&pd_rd_wg=noBi7&psc=1&refRID=WHRBF6BW1CEEY1Q1JE2W&linkCode=ll1&tag=bulkeats-20&linkId=ead91ab540820a719474d2e7ef41917c>`_

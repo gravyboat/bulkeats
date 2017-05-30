@@ -82,7 +82,7 @@ Preparation Instructions
   needed, they will probably need more salt and pepper.
 - Plate the chicken with the potatoes and other sides.
 
-Tools used
+Tools Used
 ----------
 
 `Pots and pans (Amazon Affiliate link) <https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_

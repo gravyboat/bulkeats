@@ -85,7 +85,7 @@ Preparation Instructions
   you want, for extra calories you can add on diced avocado, sour cream, or a
   variety of other things.
 
-Tools used
+Tools Used
 ----------
 
 `Slow Cooker (Amazon Affiliate link) <https://www.amazon.com/gp/product/B00EZI26DW/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=bulkeats-20&linkId=a2dbfcca593b4ab1838947d6debb86be>`_

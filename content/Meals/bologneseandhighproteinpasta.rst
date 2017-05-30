@@ -63,8 +63,8 @@ Main Ingredients
 
 **Nutrition per meal: 754 calories, 70g protein, 91g carbs, 15g fat**
 
-sides
------
+Variable Sides
+--------------
 
 Garlic bread (1 small loaf per meal):
   - 1 loaf bread, (7 oz, approx 198g each), (550 calories, 20g

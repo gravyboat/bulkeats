@@ -5,7 +5,7 @@ Chicken and Red Potatoes
 :image: chickenandredpotatoes_small.jpg
 
 This is another easy dish where you can make the chicken sous vide (please
-review my `sous vide article <>`_ if you're thinking about that) if you want
+review my `sous vide article <LINK HERE>`_ if you're thinking about that) if you want
 to, or just in a pan. Keep in mind that we lose 15-20% of the potatoes weight
 when they're cooked, so while we buy 6 pounds, we're losing nearly 1/4 of that.
 

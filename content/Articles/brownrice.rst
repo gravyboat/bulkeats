@@ -18,9 +18,14 @@ when you're trying to bulk on a budget.
     <br />
 
 |br|
+
+
 This post contains Amazon affiliate links to products I use and own so there
 is an incentive behind having you click on them. That being said the advice
 I'm presenting and these tips are still beneficial even without a rice cooker.
+
+The Preamble
+------------
 
 As you can see based on many of the recipes on the site eating brown rice is
 an easy and cheap staple to bulk up on. The main downside is that brown rice is

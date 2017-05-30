@@ -19,9 +19,13 @@ cooker is a worthwhile investment for you.
     <br />
 
 |br|
+
 This post contains Amazon affiliate links to products I use and own so there
 is an incentive behind having you click on them. That being said the advice
 I'm presenting helped make my sous vide cooking easier, so I want to share it.
+
+The Preamble
+------------
 
 There are a number of recipes on Bulk Eats that talk about cooking
 chicken breast and eating it alongside other things. About two years ago I

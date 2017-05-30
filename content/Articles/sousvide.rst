@@ -4,6 +4,12 @@ Sous Vide Cooking
 :tags: articles
 :image: sousvide_small.jpg
 
+Cooking sous vide is one of those things I thought was overrated for a long
+time, but it really isn't. It makes cooking so easy that I sometimes forget
+what a pain it can be to cook 4 lbs of chicken without my sous vide cooker.
+Let's take a look at a few things that might help you decide if a sous vide
+cooker is a worthwhile investment for you.
+
 .. image:: images/sousvide_large.jpg
     :alt: Sous Vide Cooker
     :align: left

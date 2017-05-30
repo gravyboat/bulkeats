@@ -4,6 +4,11 @@ Making Brown Rice Delicious
 :tags: articles
 :image: brownrice_small.jpg
 
+Brown rice is an essential park of my bulking diet, it's extremely easy to
+make and provides a huge chunk of my nutrition needs. Rice is also one of
+the cheapest fillers you're going to be able to find, which makes it great
+when you're trying to bulk on a budget.
+
 .. image:: images/brownrice_large.jpg
     :alt: Brown Rice
     :align: left

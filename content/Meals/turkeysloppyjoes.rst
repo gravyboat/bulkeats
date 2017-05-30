@@ -22,11 +22,11 @@ decent meal for cutting.
 Required Equipment
 ------------------
 
-large skillet
+Large skillet
 
-wooden spoon
+Wooden spoon
 
-small skillet (if eating sides)
+Small skillet (if eating sides)
 
 Main Ingredients
 ----------------
@@ -49,14 +49,14 @@ Main Ingredients
   - salt (1/2 teaspoon)
   - pepper (1/2 teaspoon)
 
-**Nutrition total: 1320 calories, 212g protein, 16g carbs, 48g fat**
+**Nutrition total: 2206 calories, 248g protein, 216g carbs, 34g fat**
 
 **Nutrition per meal: 440 calories, 70g protein, 5g carbs, 16g fat**
 
 sides
 -----
 
-- Sweet potato fries (4 bag, approx 504g each), (3360 calories, 24g protein, 576g carbs, 120g fat)
+- Sweet potato fries (4 bags, approx 504g each), (3360 calories, 24g protein, 576g carbs, 120g fat)
 - spicy baked beans (4 cans, approx 2 cups, 455g each), (1680 calories, 96g protein, 292g carbs, 8g fat)
 
 **Nutrition total: 5040 calories, 120g protein, 868 carbs, 128g fat**
@@ -81,27 +81,14 @@ Preparation Instructions
   everything else and can help, otherwise continue simmering, seasoning, and
   tasting every 15 minutes.
 - Once a thick sauce has been formed with the turkey incorporated and you are
-  happy with the seasoning spoon onto buns and eat.
+  happy with the seasoning spoon onto buns and eat with your sides.
 
 Tools used
 ----------
 
-.. raw:: html
+`Pots and pans (Amazon Affiliate link)<https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_
 
-  <script type="text/javascript">
-  amzn_assoc_placement = "adunit0";
-  amzn_assoc_tracking_id = "bulkeats-20";
-  amzn_assoc_ad_mode = "manual";
-  amzn_assoc_ad_type = "smart";
-  amzn_assoc_marketplace = "amazon";
-  amzn_assoc_region = "US";
-  amzn_assoc_title = "";
-  amzn_assoc_linkid = "54d38e16faff6fa487420bdae3d9dea7";
-  amzn_assoc_asins = "B009JXPS6U,B008H2JLP8";
-  amzn_assoc_rows = "4";
-  amzn_assoc_design = "text_links";
-  </script>
-  <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+`Wooden Spoons (Amazon Affiliate link)<https://www.amazon.com/OXO-Grips-Wooden-Spoon-3-Piece/dp/B008H2JLP8/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bulkeats-20&linkId=3be1f99f3ff3085aea4a562d2d7c47cd>`
 
 As usual all weight/calories/protein for things like meat are taken in an
 uncooked state and will be noted as such since there's too many variables. All

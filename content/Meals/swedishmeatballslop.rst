@@ -1,7 +1,7 @@
 Swedish Meatball Slop
 =====================
 :date: 2017-03-05
-:tags: meals
+:tags: meals, meat
 :image: swedishmeatballslop_small.jpg
 
 Swedish meatball slop as I like to call it just deconstructs the idea of
@@ -12,14 +12,15 @@ a one pan dish, though you will need a few containers.
     :alt: Swedish Meatball Slop
     :align: left
 
-**Total servings: 2 without sides, 4 with sides**
+**Total servings: 4**
 
-**Prep time: 10 minutes | Cook time: 45 minutes | Total Time: 55 minutes**
+**Prep time: 10 minutes | Cook time: 50 minutes | Total Time: 1 hour**
 
-**Nutrition facts per meal: 1412 calories, 96g protein, 182g carbs, 35g fat**
+**Nutrition per meal: 908 calories, 84g protein, 92g carbs, 25g fat**
 
 Required Equipment
 ------------------
+
 Large pot/dutch oven
 
 Large pot for pasta
@@ -33,15 +34,16 @@ Main Ingredients
 
 - ground turkey breast (raw) (2 lbs, approx 679g), (1120 calories,
   210g protein, 0g carbs, 24g fat)
-- yellow onion (1, approx 200g), (260 calories, 2g protein, 16g carbs, 22g fat)
-- zucchinis (2, approx 200g), (260 calories, 2g protein, 16g carbs, 22g fat)
-- white mushrooms (1/2 lb, approx 200g), (260 calories, 2g protein, 16 carbs,
-  22g fat)
-- eggs (2, approx 200g), (260 calories, 2g protein, 16g carbs, 22g fat)
-- worcestershire sauce (2 tablespoons, approx 200g), (260 calories, 2g protein,
-  16g carbs, 22g fat)
+- yellow onion (1 per 2 lbs of meat, approx 200g), (80 calories, 2g protein,
+  16g carbs, 0g fat)
+- zucchinis (2, approx 400g), (66 calories, 5g protein, 12g carbs, 1g fat)
+- white mushrooms (1/2 lb, approx 225g), (55 calories, 7g protein, 8g carbs,
+  0g fat)
+- eggs (2, approx 100g), (156 calories, 12g protein, 1g carbs, 10g fat)
+- worcestershire sauce (2 tablespoons), (26 calories, 0g protein,
+  7g carbs, 0g fat)
 - olive oil (1 tablespoon, approx 14g), (119 calories, 0g protein, 0g carbs, 14g fat)
-- high protein pasta (1 box, approx 411g) (1330 calories, 70g protein, 2g carbs,14g fat)
+- high protein pasta (1 box, approx 411g) (1330 calories, 70g protein, 266g carbs, 14g fat)
 - spices
   - allspice (2 teaspoons)
   - nutmeg (1 teaspoon)
@@ -50,14 +52,14 @@ Main Ingredients
   - pepper (1/2 teaspoon)
 
 Sauce Ingredients:
-- butter (4 teaspoons butter, approx 200g) (0 calories, 0g protein, 0g carbs, 0g fat)
-- all purpose flour (1/2 cup, approx 200g) (0 calories, 0g protein, 0g carbs, 0g fat)
-- chicken broth (32 0z, approx 200g) (0 calories, 0g protein, 0g carbs, 0g fat)
-- fage total yogurt (2 cups, 454g) (0 calories, 0g protein, 0g carbs, 0g fat)
+- butter (2 tablespoons, approx 28g), (200 calories, 0g protein, 0g carbs, 24g fat)
+- all purpose flour (1/2 cup, approx 68g) (240 calories, 8g protein, 50g carbs, 1g fat)
+- chicken broth (32 0z, approx 907g) (20 calories, 4g protein, 0g carbs, 0g fat)
+- fage total yogurt (1 cup, approx 227g) (220 calories, 20g protein, 9g carbs, 11g fat)
 
-**Nutrition total: 1320 calories, 212g protein, 16g carbs, 48g fat**
+**Nutrition total: 3632 calories, 338g protein, 369g carbs, 99g fat**
 
-**Nutrition per meal: 440 calories, 70g protein, 5g carbs, 16g fat**
+**Nutrition per meal: 908 calories, 84g protein, 92g carbs, 25g fat**
 
 Preparation Instructions
 ------------------------
@@ -100,22 +102,11 @@ Preparation Instructions
 Tools used
 ----------
 
-.. raw:: html
+`Pots and pans (Amazon Affiliate link)<https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_
 
-  <script type="text/javascript">
-  amzn_assoc_placement = "adunit0";
-  amzn_assoc_tracking_id = "bulkeats-20";
-  amzn_assoc_ad_mode = "manual";
-  amzn_assoc_ad_type = "smart";
-  amzn_assoc_marketplace = "amazon";
-  amzn_assoc_region = "US";
-  amzn_assoc_title = "";
-  amzn_assoc_linkid = "54d38e16faff6fa487420bdae3d9dea7";
-  amzn_assoc_asins = "B0017HRLFC,B009JXPS6U,B008H2JLP8";
-  amzn_assoc_rows = "4";
-  amzn_assoc_design = "text_links";
-  </script>
-  <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+`Dutch oven (Amazon Affiliate link)<https://www.amazon.com/Cuisinart-CI670-30CR-Enameled-Casserole-Cardinal/dp/B0017HRLFC/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0017HRLFC&pd_rd_r=WHRBF6BW1CEEY1Q1JE2W&pd_rd_w=L6Tti&pd_rd_wg=noBi7&psc=1&refRID=WHRBF6BW1CEEY1Q1JE2W&linkCode=ll1&tag=bulkeats-20&linkId=ead91ab540820a719474d2e7ef41917c>`_
+
+`Wooden Spoons (Amazon Affiliate link)<https://www.amazon.com/OXO-Grips-Wooden-Spoon-3-Piece/dp/B008H2JLP8/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bulkeats-20&linkId=3be1f99f3ff3085aea4a562d2d7c47cd>`
 
 As usual all weight/calories/protein for things like meat are taken in an
 uncooked state and will be noted as such since there's too many variables. All

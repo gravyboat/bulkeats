@@ -1,7 +1,7 @@
 Chicken Fajitas
 ===============
 :date: 2017-02-14
-:tags: meals, leftovers, meat
+:tags: meals, meat
 :image: chickenfajitas_small.jpg
 
 Chicken fajitas are an easy meal you can add calories on to with minimal work.
@@ -77,12 +77,12 @@ Preparation Instructions
   because it's easier for me to manage. Cook your rice however you prefer,
   I am assuming a 2 hour cook time.
 - Combine the spices listed above in a zip top bag along with the juice from
-  the lime(s) and olive oil. Close and shake vigoriously to combine.
+  the lime(s) and olive oil. Close and shake vigorously to combine.
 - Prep chicken and cut into thin slices (however big you prefer to eat in a bite)
   and put these in the bag with the marinade. Close the marinade bag and shake
   again to ensure all pieces are coated, place the bag into a bowl and put this
   in the refrigerator for 45 minutes, once this time has elapsed flip the bag.
-- When your brown rice is approximatey 45 minutes from being done slice the
+- When your brown rice is approximately 45 minutes from being done slice the
   green pepper, red pepper, and onion, again to your thickness preference.
 - Heat up a large pan or dutch oven over medium/high heat and once it is hot
   place the coconut oil into the pan. Immediately add your onions and peppers,
@@ -102,22 +102,17 @@ Preparation Instructions
 Tools used
 ----------
 
-.. raw:: html
+`Dutch oven (Amazon Affiliate link)<https://www.amazon.com/Cuisinart-CI670-30CR-Enameled-Casserole-Cardinal/dp/B0017HRLFC/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0017HRLFC&pd_rd_r=WHRBF6BW1CEEY1Q1JE2W&pd_rd_w=L6Tti&pd_rd_wg=noBi7&psc=1&refRID=WHRBF6BW1CEEY1Q1JE2W&linkCode=ll1&tag=bulkeats-20&linkId=ead91ab540820a719474d2e7ef41917c>`_
 
-  <script type="text/javascript">
-  amzn_assoc_placement = "adunit0";
-  amzn_assoc_tracking_id = "bulkeats-20";
-  amzn_assoc_ad_mode = "manual";
-  amzn_assoc_ad_type = "smart";
-  amzn_assoc_marketplace = "amazon";
-  amzn_assoc_region = "US";
-  amzn_assoc_title = "";
-  amzn_assoc_linkid = "54d38e16faff6fa487420bdae3d9dea7";
-  amzn_assoc_asins = "B0017HRLFC,B01EVHWNVG,B008H2JLP8,B00HWF4E7G";
-  amzn_assoc_rows = "4";
-  amzn_assoc_design = "text_links";
-  </script>
-  <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+`Rice cooker (Amazon Affiliate link)<https://www.amazon.com/Zojirushi-NS-LHC05XT-Cooker-Warmer-Stainless/dp/B01EVHWNQQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bulkeats-20&linkId=d693219a87659abab9b5fc9740997dde>`_
+
+.. note::
+   Please review my article on better brown rice prior to purchasing the
+   above rice cooker if you want to have a lot of leftover rice.
+
+`Wooden Spoons (Amazon Affiliate link)<https://www.amazon.com/OXO-Grips-Wooden-Spoon-3-Piece/dp/B008H2JLP8/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bulkeats-20&linkId=3be1f99f3ff3085aea4a562d2d7c47cd>`_
+
+`Tortilla Warmer (Amazon Affiliate link)<https://www.amazon.com/MEXI-10007-Sunburst-Tortilla-Warmer-12-Inch/dp/B00HWF4E7G/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1495602343&sr=1-4&keywords=tortilla+warmer&th=1&linkCode=ll1&tag=bulkeats-20&linkId=37cc6ccac2ae2985077713f9771ac503>`_
 
 As usual all weight/calories/protein for things like meat are taken in an
 uncooked state and will be noted as such since there's too many variables. All

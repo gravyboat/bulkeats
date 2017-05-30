@@ -1,7 +1,7 @@
 Turkey Club Sandwiches
 ======================
-:date: 2017-02-30
-:tags: meals, leftovers, meat
+:date: 2017-02-27
+:tags: meals
 
 Chicken fajitas are an easy meal you can add calories on to with minimal work.
 These fajitas are cooked in a single pan. This means they will lack the famous

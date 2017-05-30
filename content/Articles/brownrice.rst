@@ -13,6 +13,9 @@ when you're trying to bulk on a budget.
     :alt: Brown Rice
     :align: left
 
+.. |br| raw:: html
+    <br />
+
 This post contains Amazon affiliate links to products I use and own so there
 is an incentive behind having you click on them. That being said the advice
 I'm presenting and these tips are still beneficial even without a rice cooker.

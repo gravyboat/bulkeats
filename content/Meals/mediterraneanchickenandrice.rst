@@ -96,8 +96,7 @@ Tools Used
 
 `Rice cooker (Amazon Affiliate link) <https://www.amazon.com/Zojirushi-NS-LHC05XT-Cooker-Warmer-Stainless/dp/B01EVHWNQQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bulkeats-20&linkId=d693219a87659abab9b5fc9740997dde>`_
 
-.. note::
-   Please review my article on better brown rice prior to purchasing the
-   above rice cooker if you want to have a lot of leftover rice.
+Please review my `article on better brown <making-brown-rice-delicious>`_ rice
+prior to purchasing the above rice cooker if you want to have a lot of leftover rice.
 
 `Secret Aardvark Hot Sauce (Amazon Affiliate link) <https://www.amazon.com/Secret-Aardvark-Habanero-Sauce/dp/B00AIR3Q38/ref=as_li_ss_tl?ie=UTF8&qid=1495345758&sr=8-1&keywords=secret+aardvark&th=1&linkCode=ll1&tag=bulkeats-20&linkId=727c8bbc0b3928189622a0268a57511b>`_

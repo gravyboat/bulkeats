@@ -107,7 +107,7 @@ Tools Used
 `Rice cooker (Amazon Affiliate link) <https://www.amazon.com/Zojirushi-NS-LHC05XT-Cooker-Warmer-Stainless/dp/B01EVHWNQQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bulkeats-20&linkId=d693219a87659abab9b5fc9740997dde>`_
 
 .. note::
-   Please review my article on better brown rice prior to purchasing the
+   Please review my `article on better brown<making-brown-rice-delicious>`_ rice prior to purchasing the
    above rice cooker if you want to have a lot of leftover rice.
 
 `Wooden Spoons (Amazon Affiliate link) <https://www.amazon.com/OXO-Grips-Wooden-Spoon-3-Piece/dp/B008H2JLP8/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bulkeats-20&linkId=3be1f99f3ff3085aea4a562d2d7c47cd>`_

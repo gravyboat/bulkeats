@@ -57,7 +57,7 @@ Variable Sides
 --------------
 
 - brown rice (cooked) (10 cups, approx 1950g), (2160 calories, 50g protein, 450g carbs, 18g fat)
-- `Spicy greek yogurt sauce <LINK HERE>`_ (455 calories, 40g protein, 21g carb, 22g fat)
+- `Spicy greek yogurt sauce <spicy-greek-yogurt-sauce>`_ (455 calories, 40g protein, 21g carb, 22g fat)
 - hummus (whatever your favorite brand is)
 - pita bread
 - assorted diced veggies

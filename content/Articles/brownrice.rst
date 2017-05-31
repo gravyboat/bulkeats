@@ -85,8 +85,8 @@ Add Oil to Your Rice
 --------------------
 
 Once the rice is washed I like to add a small amount of olive oil to my rice.
-This doesn't have to be anything insane, a teaspoon or less (I don't even
-measure it any more since I'm so good at eye balling it) for 2 'cups' of rice
+This doesn't have to be anything outrageous, a teaspoon or less (I don't even
+measure it any more since I'm used at eye balling it) for 2 'cups' of rice
 and it keeps the rice from sticking to itself too much, it also makes the rice
 taste a little richer and smoother which I appreciate. Overall this is one of
 the most important additions to me for brown rice and I do it no matter what.

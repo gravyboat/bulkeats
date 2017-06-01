@@ -33,6 +33,7 @@ Main Ingredients
 - olive oil (2 tablespoon, approx 28g), (238 calories, 0g protein, 0g carbs, 28g fat)
 - coconut oil (1 tablespoon, approx 28g), (120 calories, 0g protein, 0g carbs, 14g fat)
 - spices
+
   - cayenne pepper (1/4 teaspoon)
   - salt (1 teaspoon)
   - pepper (1 teaspoon)

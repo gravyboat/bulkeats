@@ -48,6 +48,7 @@ Main Ingredients
 - thin buns (or regular for more calories) (4) (400 calories, 20g protein,
   88g carbs, 4g fat)
 - spices
+
   - garlic granules (1 teaspoon)
   - onion granules (1 teaspoon)
   - cayenne pepper (1/4 teaspoon or less)

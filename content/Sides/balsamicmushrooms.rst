@@ -31,6 +31,7 @@ Main Ingredients
 - balsamic vinegar (2 tablespoons), (28 calories, 0g protein, 6g carbs, 0g fat)
 - soy sauce (1 tablespoon), (9 calories, 1g protein, 1g carbs, 0g fat)
 - spices
+
   - salt (1 teaspoon)
   - pepper (1 teaspoon)
 - fresh parsley (1/4 tablespoon per serving) (negligible nutrition facts)

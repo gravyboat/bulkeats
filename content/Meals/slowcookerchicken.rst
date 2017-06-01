@@ -38,6 +38,7 @@ Main Ingredients
 - 3 cans black beans (30 oz, 780g), (1080 calories, 72g protein, 198g carbs, 0g fat)
 - 3 cans pinto beans (30 oz, 780g), (810 calories, 45g protein, 171 carbs, 0g fat)
 - spices
+
   - cumin (2 teaspoon)
   - garlic granules (2 teaspoon)
   - onion granules (2 teaspoon)

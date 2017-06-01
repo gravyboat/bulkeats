@@ -45,6 +45,7 @@ Main Ingredients
 - olive oil (1 tablespoon, approx 14g), (119 calories, 0g protein, 0g carbs, 14g fat)
 - high protein pasta (1 box, approx 411g) (1330 calories, 70g protein, 266g carbs, 14g fat)
 - spices
+
   - allspice (2 teaspoons)
   - nutmeg (1 teaspoon)
   - dried dill (3 teaspoons)

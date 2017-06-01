@@ -52,6 +52,7 @@ Main Ingredients
 - high protein pasta (1 box, approx 411g), (1330 calories, 70g protein, 266g
   carbs, 14g fat)
 - spices
+
   - garlic granules (2-3 teaspoons)
   - onion granules (2-3 teaspoons)
   - oregano (2 teaspoons)

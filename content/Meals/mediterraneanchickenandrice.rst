@@ -40,6 +40,7 @@ Main Ingredients
 - white vinegar (1 tablespoon) (negligible nutrition facts)
 - coconut oil (1 tablespoon, approx 14g), (117 calories, 0g protein, 0g carbs, 14g fat)
 - spices
+
   - turmeric (1/2 tablespoon)
   - garlic granules (1/4 tablespoon)
   - onion granules (1/4 tablespoon)

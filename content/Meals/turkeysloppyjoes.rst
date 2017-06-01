@@ -43,6 +43,7 @@ Main Ingredients
 - coconut oil (1 tablespoon, approx 14g), (117 calories, 0g protein, 0g carbs, 14g fat)
 - thin buns (8) (800 calories, 40g protein, 176g carbs, 8g fat)
 - spices
+
   - garlic granules (1 teaspoon)
   - onion granules (1 teaspoon)
   - cayenne pepper (1/4 teaspoon)

@@ -70,7 +70,7 @@ Preparation Instructions
 - Start by heating up the pan, dicing the yellow onion, and mincing the garlic.
 - Once the pan is hot add the coconut oil, when nearly smoking add ground
   turkey breast and use a wooden spoon to break up the turkey as it cooks.
-- Add Salt and pepper.
+- Add salt and pepper.
 - Once turkey has lost most pink color add the yellow onion.
 - When the turkey is no longer pink and onion has started to become translucent
   add the tomato sauce, soy sauce, worcestershire sauce, ketchup, tomato paste,

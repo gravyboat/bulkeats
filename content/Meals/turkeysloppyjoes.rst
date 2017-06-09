@@ -36,7 +36,7 @@ Main Ingredients
   16g carbs, 0g fat)
 - 1 can tomato sauce (15 oz, 425g), (140 calories, 0g protein, 28g carbs, 0g fat)
 - soy sauce (1 teaspoon)
-- worcestershire sauce (1-2 tablespoons to taste)
+- worcestershire sauce (1-2 tablespoons or to taste)
 - ketchup (1/2 cup, 128g), (120 calories, 0g protein, 24g carbs, 0g fat)
 - tomato paste (1 tbsp, 16g), (13 calories, 0g protein, 3g carbs, 0g fat)
 - 4 cloves garlic minced (negligible nutrition facts)
@@ -68,11 +68,11 @@ Preparation Instructions
 ------------------------
 
 - Start by heating up the pan, dicing the yellow onion, and mincing the garlic.
-- Once hot add the coconut oil, when nearly smoking add ground turkey breast
-  and use a wooden spoon to break up the turkey as it cooks.
+- Once the pan is hot add the coconut oil, when nearly smoking add ground
+  turkey breast and use a wooden spoon to break up the turkey as it cooks.
 - Add Salt and pepper.
 - Once turkey has lost most pink color add the yellow onion.
-- Once turkey is no longer pink and onion has started to become translucent
+- When the turkey is no longer pink and onion has started to become translucent
   add the tomato sauce, soy sauce, worcestershire sauce, ketchup, tomato paste,
   mined garlic, and spices. Mix well.
 - Turn down the heat to simmer so there is a small amount of bubbling going,

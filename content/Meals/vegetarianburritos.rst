@@ -17,7 +17,7 @@ these for your taste, and there's a huge variety of toppings available.
 
 **Prep time: 5 minutes | Cook time: 30-45 minutes | Total Time: 35-50 minutes**
 
-**Nutrition facts per meal: 1445 calories, 141g protein, 150g carbs, 39g fat**
+**Nutrition facts per meal: 1389 calories, 85g protein, 154g carbs, 39g fat**
 
 Required Equipment
 ------------------
@@ -34,8 +34,8 @@ wooden spoon
 Main Ingredients
 ----------------
 
-- 3 packages Beyond Meat beefy crumbles (33 oz , approx 990g), (1800 calories
-  , 420g protein, 0g carbs, 48g fat) (NOTE: If you cannot find this any frozen
+- 3 packages Beyond Meat beefy/feisty crumbles (30 oz , approx 825g), (1600 calories
+  , 195g protein, 15g carbs, 45g fat) (NOTE: If you cannot find this any frozen
   vegetarian crumbles will work, so boca, morningstar, generic brands, and
   even TVP, though I've found the Beyond Meat product provides the best
   texture)
@@ -61,9 +61,9 @@ Main Ingredients
   - salt (1 teaspoon)
   - pepper (1 teaspoon)
 
-**Nutrition total: 5777 calories, 564g protein, 600g carbs, 157g fat**
+**Nutrition total: 5557 calories, 339g protein, 617g carbs, 154g fat**
 
-**Nutrition per meal: 1445 calories, 141g protein, 150g carbs, 39g fat**
+**Nutrition per meal: 1389 calories, 85g protein, 154g carbs, 39g fat**
 
 Variable Sides
 --------------

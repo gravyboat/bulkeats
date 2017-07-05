@@ -39,11 +39,11 @@ Main Ingredients
 - 3 cans pinto beans (30 oz, 780g), (810 calories, 45g protein, 171 carbs, 0g fat)
 - spices
 
-  - cumin (2 teaspoon)
-  - garlic granules (2 teaspoon)
-  - onion granules (2 teaspoon)
-  - smoked paprika (1/2 teaspoon)
-  - chile powder (2 teaspoon)
+  - cumin (2 teaspoons)
+  - garlic granules (2 teaspoons)
+  - onion granules (2 teaspoons)
+  - smoked paprika (1/2 teaspoons)
+  - chile powder (2 teaspoons)
   - cayenne pepper (1/2 teaspoon)
   - oregano (1 teaspoon)
   - salt (1 teaspoon)
@@ -57,7 +57,7 @@ Variable Sides
 --------------
 
 - brown rice (cooked) (10 cups, approx 1950g), (2160 calories, 50g protein, 450g carbs, 18g fat)
-- Tortillas (10) (nutrition dependent on brand, as an example: 1800 calories,
+- tortillas (10) (nutrition dependent on brand, as an example: 1800 calories,
   50g protein, 290g carbs, 50g fat) I usually eat 2 burrito sized flour tortillas
   per meal in addition to the rice.
  

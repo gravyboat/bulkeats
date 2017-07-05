@@ -24,7 +24,7 @@ Required Equipment
 
 large skillet (for our meat substitute)
 
-medium skillet (if you decide to toast the tortillas)
+medium skillet (if you decide to toast the outside of the burritos)
 
 small skillet (for beans)
 

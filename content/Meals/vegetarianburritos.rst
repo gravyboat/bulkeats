@@ -35,7 +35,10 @@ Main Ingredients
 ----------------
 
 - 3 packages Beyond Meat beefy crumbles (33 oz , approx 990g), (1800 calories
-  , 420g protein, 0g carbs, 48g fat)
+  , 420g protein, 0g carbs, 48g fat) (NOTE: If you cannot find this any frozen
+  vegetarian crumbles will work, so boca, morningstar, generic brands, and
+  even TVP, though I've found the Beyond Meat product provides the best
+  texture)
 - 4 cans refried beans (I recommend cooking one can per meal so they are
   fresh), (64 oz, 1816g), (1680 calories, 84g protein, 252g carbs, 35g fat)
 - tortillas (12) (nutrition dependent on brand, as an example: 2160 calories,

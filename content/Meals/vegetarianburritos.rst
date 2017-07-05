@@ -17,7 +17,7 @@ these for your taste, and there's a huge variety of toppings available.
 
 **Prep time: 5 minutes | Cook time: 30-45 minutes | Total Time: 35-50 minutes**
 
-**Nutrition facts per meal (with sides): 1662 calories, 128g protein, 232g carbs, 24g fat**
+**Nutrition facts per meal: 1445 calories, 141g protein, 150g carbs, 39g fat**
 
 Required Equipment
 ------------------

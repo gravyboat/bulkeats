@@ -141,7 +141,7 @@ positive or negative benefits I'll be sure to add them.
 My Sous Vide Setup
 ------------------
 
-I own the following products for cooking sous vide The link container lid
+I own the following products for cooking sous vide The linked container lid
 doesn't have a hole by default, so just cut one in it along the side
 approximatey the size of your sous vide cooker, it does't need to be perfect.
 Apparently there are now some manufacturers selling lids that fit around the

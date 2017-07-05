@@ -1,7 +1,8 @@
 Vegetarian Burritos
 ===================
-:date: 2014-12-20
+:date: 2017-07-04
 :tags: meals, vegetarian
+:image: vegetarianburritos_small.jpg
 
 These vegetarian burritos are pretty easy to make and turn out good. They
 aren't the kind of leftover you want to bring to work, but they're great for

@@ -15,7 +15,7 @@ these for your taste, and there's a huge variety of toppings available.
 
 **Total servings: 4 without sides**
 
-**Prep time: 5 minutes | Cook time: 30-45 minutes | Total Time: 35-55 minutes**
+**Prep time: 5 minutes | Cook time: 30-45 minutes | Total Time: 35-50 minutes**
 
 **Nutrition facts per meal (with sides): 1662 calories, 128g protein, 232g carbs, 24g fat**
 

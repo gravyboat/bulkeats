@@ -104,7 +104,7 @@ a basic setup real quick:
 
 So the total investment made for cooking sous vide is $143 plus a little in
 electricity/water for your first 20-40 times depending on how heavily you load
-up your bags (and I don't like to do more than 2lbs per bag max). While sous
+up your bags (I prefer one piece of chicken per bag). While sous
 vide definitely isn't an extremely low cost of entry style of cooking a lot
 of the cost is offset to me because I don't have to either bake a ton of
 chicken and make my living space hot, or deal with batch cooking. The time

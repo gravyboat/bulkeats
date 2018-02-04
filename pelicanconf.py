@@ -20,7 +20,7 @@ LINKS = (('Example', 'example'),
         )
 
 # Social widget
-SOCIAL = (('twitter', 'https://twitter.com/bulkeats'),
+SOCIAL = ((),
           )
 
 

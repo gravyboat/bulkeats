@@ -82,19 +82,4 @@ Preparation Instructions
   serving. While this is happening taste the potatoes and adjust seasoning as
   needed, they will probably need more salt and pepper.
 - Plate the chicken with the potatoes and other sides.
-
-Tools Used
-----------
-
-`Pots and pans (Amazon Affiliate link) <https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_
-
-`Baking sheet (Amazon Affiliate link) <https://www.amazon.com/gp/product/B000G0KJG4/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=bulkeats-20&linkId=8aa77706fe6a482ec2e9c76ba25eb88c>`_
-
-.. note::
-    I recommend a container with a heavier bottom than the baking sheets
-    for cooking the potatoes, but since I don't have one I wouldn't feel
-    comfortable making a recommendation. The baking sheets are cheap and work
-    but you might get red peppers that are a little more roasted than you
-    prefer.
    
-`Meat thermometer (Standard link) <http://www.thermoworks.com/ThermoPop>`_

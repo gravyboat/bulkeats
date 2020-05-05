@@ -100,20 +100,6 @@ Preparation Instructions
 - If the pan is large enough add the rice and stir to combine, serve immediately
   with your preferred toppings in tortillas or plain
 
-Tools Used
-----------
-
-`Dutch oven (Amazon Affiliate link) <https://www.amazon.com/Cuisinart-CI670-30CR-Enameled-Casserole-Cardinal/dp/B0017HRLFC/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0017HRLFC&pd_rd_r=WHRBF6BW1CEEY1Q1JE2W&pd_rd_w=L6Tti&pd_rd_wg=noBi7&psc=1&refRID=WHRBF6BW1CEEY1Q1JE2W&linkCode=ll1&tag=bulkeats-20&linkId=ead91ab540820a719474d2e7ef41917c>`_
-
-`Rice cooker (Amazon Affiliate link) <https://www.amazon.com/Zojirushi-NS-LHC05XT-Cooker-Warmer-Stainless/dp/B01EVHWNQQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bulkeats-20&linkId=d693219a87659abab9b5fc9740997dde>`_
-
-Please review my `article on better brown <making-brown-rice-delicious>`_ rice
-prior to purchasing the above rice cooker if you want to have a lot of leftover rice.
-
-`Wooden Spoons (Amazon Affiliate link) <https://www.amazon.com/OXO-Grips-Wooden-Spoon-3-Piece/dp/B008H2JLP8/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bulkeats-20&linkId=3be1f99f3ff3085aea4a562d2d7c47cd>`_
-
-`Tortilla Warmer (Amazon Affiliate link) <https://www.amazon.com/MEXI-10007-Sunburst-Tortilla-Warmer-12-Inch/dp/B00HWF4E7G/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1495602343&sr=1-4&keywords=tortilla+warmer&th=1&linkCode=ll1&tag=bulkeats-20&linkId=37cc6ccac2ae2985077713f9771ac503>`_
-
 As usual all weight/calories/protein for things like meat are taken in an
 uncooked state and will be noted as such since there's too many variables. All
 nutrition values are taken from a Google search such as

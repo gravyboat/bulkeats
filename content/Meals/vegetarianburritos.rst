@@ -98,15 +98,6 @@ Preparation Instructions
   decide to toast the tortillas place them in the medium sized skillet at
   medium/high heat, flip once browned on the bottom and serve.
 
-Tools used
-----------
-
-`Pots and pans (Amazon Affiliate link) <https://www.amazon.com/gp/product/B009JXPS6U/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=bulkeats-20&linkId=ba1b43efe3ad7f850219558ca361ef7f>`_
-
-`Wooden Spoons (Amazon Affiliate link) <https://www.amazon.com/OXO-Grips-Wooden-Spoon-3-Piece/dp/B008H2JLP8/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=bulkeats-20&linkId=3be1f99f3ff3085aea4a562d2d7c47cd>`_
-
-`Tortilla Warmer (Amazon Affiliate link) <https://www.amazon.com/MEXI-10007-Sunburst-Tortilla-Warmer-12-Inch/dp/B00HWF4E7G/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1495602343&sr=1-4&keywords=tortilla+warmer&th=1&linkCode=ll1&tag=bulkeats-20&linkId=37cc6ccac2ae2985077713f9771ac503>`_
-
 As usual all weight/calories/protein for things like meat are taken in an
 uncooked state and will be noted as such since there's too many variables. All
 nutrition values are taken from a Google search such as

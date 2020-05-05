@@ -137,19 +137,3 @@ my largest stock pot didn't have enough space. In the end this has been
 a plus but it's a possible annoyance if you try to use a regular pot all the
 time. Hopefully these details have been helpful, if I come up with any more
 positive or negative benefits I'll be sure to add them.
-
-My Sous Vide Setup
-------------------
-
-I own the following products for cooking sous vide The linked container lid
-doesn't have a hole by default, so just cut one in it along the side
-approximatey the size of your sous vide cooker, it does't need to be perfect.
-Apparently there are now some manufacturers selling lids that fit around the
-cooker more precisely but that didn't exist when I purchased mine and there's
-no way I'm spending $20 for a plastic lid when I can just cut a hole myself:
-
-`Anova sous vide cooker (Amazon Affiliate link) <https://www.amazon.com/Anova-Culinary-Bluetooth-Precision-Cooker/dp/B00UKPBXM4/ref=as_li_ss_tl?ie=UTF8&qid=1495428868&sr=8-2&keywords=anova+cooker&linkCode=ll1&tag=bulkeats-20&linkId=454fd45235d96d9349b854e14eb0c3cd>`_
-
-`Polycarbonate container (Amazon Affiliate link) <https://www.amazon.com/gp/product/B0001MRUKA/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=bulkeats-20&linkId=e4fa0564485560da7f66f01ee95566f8>`_
-
-`Container lid (Amazon Affiliate link) <https://www.amazon.com/gp/product/B002PMV79E/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=bulkeats-20&linkId=1b189ce311c5e64bae2270e689775beb>`_
